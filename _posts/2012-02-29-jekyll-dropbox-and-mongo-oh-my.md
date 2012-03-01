@@ -12,5 +12,8 @@ I'm thinking about migrating my personal site to Jekyll/GitHub. For a while I've
 
 More to be committed (!) soon.
 
+Big appeal: Markdown. I was really sick of writing markup every time I wanted to post a link or write something. 
+
+Rails is actually not the right tool for a blog. Or at least, a relational-database-backed Rails app is not the right tool for building a blog. 
 
 [1]: http://blog.pinboard.in/2012/01/the_five_stages_of_hosting/ "The Five Stages of Hosting"
