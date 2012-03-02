@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<link rel="shortcut icon" type="image/png" href="/favicon.png">
+		<meta name="google-site-verification" content="dPYG0gqQlcAXqTFAg8nZpvV-7wx51ZRc5D096cVHw7c"/>
+		<meta name="verify-v1" content="GACJqKSgAOuYP5m5PFvn0joQ93sv9TkbfyKQUM4quXk="/>
+		<meta name="description" content="Home page for Andy Brett, a writer, engineer, and athlete living in Silicon Valley."/>
+		<link href="/css/screen.css" media="screen" rel="stylesheet" type="text/css"/>
+		<link href="/writing.rss" rel="alternate" title="RSS" type="application/rss+xml"/>
+	</head>
+	<body>
+		<div id='header'>
+			<div id='headline'>
+				<a href='/'>
+					<img alt="Andy Brett" id="profile_pic" height="198px" width="130px" src="http://dl.dropbox.com/u/256663/andybrett.com/andy_brett.png"/>
+				</a>
+				<h1 id='summary'>
+					<span id='name'><a href='/'>Andy Brett</a></span>
+					is a writer, engineer, and athlete living in Silicon Valley
+				</h1>
+			</div>
+			<div class='clear'></div>
+		</div>
+		<div id='nav_bar'>
+			<div id='nav_list'>
+				<ul>
+					{% if page.title == "Andy Brett | Writing" %}
+						<li id='writing' class='active'>
+							<a href='/writing'>Writing</a>
+						</li>
+					{% else %}
+						<li id='writing'>
+							<a href='/writing'>Writing</a>
+						</li>					
+					{% endif %}
+					{% if page.title == "Andy Brett | Bookmarks" %}
+						<li id='bookmarks' class='active'>
+							<a href='/bookmarks'>Bookmarks</a>
+						</li>
+					{% else %}
+						<li id='bookmarks'>
+							<a href='/bookmarks'>Bookmarks</a>
+						</li>					
+					{% endif %}
+					{% if page.title == "Andy Brett | Projects" %}
+						<li id='projects' class='active'>
+							<a href='/projects'>Projects</a>
+						</li>
+					{% else %}
+						<li id='projects'>
+							<a href='/projects'>Projects</a>
+						</li>					
+					{% endif %}
+					{% if page.title == "Andy Brett | Photos" %}
+						<li id='photos_nav' class='active'>
+							<a href='/photos'>Photos</a>
+						</li>
+					{% else %}
+						<li id='photos_nav'>
+							<a href='/photos'>Photos</a>
+						</li>					
+					{% endif %}
+					{% if page.title == "Andy Brett | About" %}
+						<li id='about' class='active'>
+							<a href='/about'>About</a>
+						</li>
+					{% else %}
+						<li id='about'>
+							<a href='/about'>About</a>
+						</li>					
+					{% endif %}
+				</ul>
+			</div>
+			<div class='clear'></div>
+		</div>
+		<div id='canvas'>
+			{{ content }}
+		</div>
+	</body>
+</html>

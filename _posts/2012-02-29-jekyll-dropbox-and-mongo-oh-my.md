@@ -14,3 +14,4 @@ Big appeal: Markdown. I was really sick of writing markup every time I wanted to
 Rails is actually not the right tool for a blog. Or at least, a relational-database-backed Rails app is not the right tool for building a blog. 
 
 [1]: http://blog.pinboard.in/2012/01/the_five_stages_of_hosting/ "The Five Stages of Hosting"
+[2]: http://www.imdb.com/title/tt0061722/quotes?qt=qt0282092 "IMDB: The Graduate"

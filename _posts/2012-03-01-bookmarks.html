@@ -1,0 +1,18 @@
+---
+layout: default
+title: Andy Brett | Bookmarks
+---
+<ul class="posts">
+  {% for post in site.posts %}
+		{% if post.layout == "bookmark" %}
+			<div class="bookmark">
+				<a href="{{ post.external_link }}">{{ post.title }}</a>
+				<div class="clear"></div>
+				{{ post.content }}
+				<div class="permalink">
+					<a href="{{ post.id }}">{{ post.date | date_to_string }}</a>
+				</div>
+			</div>
+		{% endif %}
+  {% endfor %}
+</ul>

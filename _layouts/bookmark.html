@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
-This is a bookmark
-
-<h1>{{ page.title }}</h1>
+<div class="bookmark">
+	<a href="{{ page.external_link }}">{{ page.title }}</a>
+	<div class="clear"></div>
+	{{ content }}
+	<div class="permalink">
+		<a href="{{ page.id }}">{{ page.date | date_to_string }}</a>
+	</div>	
+</div>

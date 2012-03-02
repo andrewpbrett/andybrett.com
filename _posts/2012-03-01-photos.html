@@ -1,0 +1,15 @@
+---
+layout: default
+title: Andy Brett | Photos
+---
+<div id="photos">
+  {% for post in site.posts %}
+		{% if post.layout == "photo" %}
+			<div class="photo">
+				<a class="gallery_image" href="{{ post.source_url }}" rel="gallery" data-caption="{{ post.caption }}">
+					<img src="{{ post.thumbnail_url }}" />
+				</a>
+			</div>
+		{% endif %}
+  {% endfor %}
+</ul>
