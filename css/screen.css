@@ -32,16 +32,13 @@ h1#summary{float:left;margin:46px 10px;padding:10px 32px;}
 #timeline .image .permalink{text-align:left;}
 .fancybox-title-inside .permalink{float:right;}
 .timeline_item,#timeline .image,#timeline .bookmark,#timeline .post,#timeline .update{border-bottom:1px solid #c3c3c3;padding:20px;line-height:26px;width:600px;}
-#posts{line-height:22px;padding:10px 0px;}
-#posts div{margin:0px 20px;}
-#posts a{color:inherit;font-weight:300;}
 .posts_year{font-weight:bold;border-bottom:1px solid #333f62;padding-bottom:14px;}
 .post{line-height:28px;}
-.post .permalink{padding:0px 20px;margin:0px;float:left;}
+.post div, .post h2{padding:0px 20px;margin:0px;}
 .post .title{padding:0px 20px;margin:12px 0px;}
 .post_body{padding:0px 20px;float:left;}
 .post_body a{font-weight:bold;}
-#timeline .post .permalink,#timeline .post .title,#timeline .post .post_body{padding:0;}
+#timeline .post div, #timeline .post h2{padding:0;}
 #photos{width:1072px;margin:auto;}
 #photos .photo{margin:14px;width:150px;height:150px;float:left;}
 #photos .photo img{border:1px solid #333f62;padding:2px;}

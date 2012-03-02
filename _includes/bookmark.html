@@ -1,22 +1,24 @@
 <div class="bookmark">
-	<a href="{{ post.external_link }}{% if post == null %}{{ page.external_link }}{% endif%}">
-		{{ post.title }}
-		{% if post == null %}
-			{{ page.title }}
-		{% endif %}
-	</a>
-	<div class="clear"></div>
-	{{ post.content }}
 	{% if post == null %}
+
+		<a href="{{ page.external_link }}">{{ page.title }}</a>
+		<div class="clear"></div>
+
 		{{ content }}
+
+		<div class="date">{{ page.date | date: "%-d %b %Y" }}</div>
+			
+	{% else %}
+
+		<a href="{{ post.external_link }}">{{ post.title }}</a>
+		<div class="clear"></div>	
+
+		{{ post.content }}
+	
+		<div class="permalink">
+			<a href="{{ post.id }}">{{ post.date | date: "%-d %b %Y" }}</a>
+		</div>
+		
 	{% endif %}
-	<div class="permalink">
-		<a href="{{ post.id }}">
-			{% if post == null %}
-				{{ page.date | date_to_string }}
-			{% else %}
-				{{ post.date | date_to_string }}			
-			{% endif %}
-		</a>
-	</div>	
+	
 </div>
