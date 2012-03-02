@@ -25,13 +25,10 @@ h1#summary{float:left;margin:46px 10px;padding:10px 32px;}
 #nav_list a{color:inherit;}
 #flashnotice{color:green;font-weight:bold;min-height:0;}
 .permalink a{color:gray!important;font-size:14px!important;font-weight:normal!important;}
-.text_container,#flashnotice,#timeline,#posts,.post,#updates,.update,.bookmark,.admin_form{margin:auto;width:600px;margin-top:25px;}
-#timeline{line-height:20px;display:block;}
-#timeline .image,#timeline .bookmark,#timeline .post,#timeline .update{margin-top:0px;}
-#timeline .image{text-align:center;}
-#timeline .image .permalink{text-align:left;}
+.text_container,#flashnotice,#posts,.post,#updates,.update,.bookmark,.admin_form{margin:auto;width:600px;margin-top:25px;}
+#timeline{line-height:20px;display:block;margin-top:5px;}
 .fancybox-title-inside .permalink{float:right;}
-.timeline_item,#timeline .image,#timeline .bookmark,#timeline .post,#timeline .update{border-bottom:1px solid #c3c3c3;padding:20px;line-height:26px;width:600px;}
+#timeline .bookmark,#timeline .post{border-bottom:1px solid #c3c3c3;padding:20px;line-height:26px;width:600px;}
 .posts_year{font-weight:bold;border-bottom:1px solid #333f62;padding-bottom:14px;}
 .post{line-height:28px;}
 .post div, .post h2{padding:0px 20px;margin:0px;}
