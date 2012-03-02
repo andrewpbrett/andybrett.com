@@ -1,5 +1,6 @@
 ---
-layout: post
+type: post
+layout: main
 title: "Export and Visualize Your Jawbone UP Data"
 ---
 About a month ago I wrote about some of the [issues][1] I had with the Jawbone UP. I'm still using the UP, and happy to report that I've fixed the last item on the list - the lack of a web interface and data export.

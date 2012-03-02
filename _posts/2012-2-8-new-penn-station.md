@@ -1,5 +1,6 @@
 ---
-layout: bookmark
+type: bookmark
+layout: main
 title: "A Proposal for Penn Station and Madison Square Garden - NYTimes.com"
 external_link: http://www.nytimes.com/2012/02/12/arts/design/a-proposal-for-penn-station-and-madison-square-garden.html?_r=1
 ---

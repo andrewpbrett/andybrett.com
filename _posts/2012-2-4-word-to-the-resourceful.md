@@ -1,5 +1,6 @@
 ---
-layout: bookmark
+type: bookmark
+layout: main
 title: "A Word to the Resourceful"
 external_link: http://www.paulgraham.com/word.html
 ---

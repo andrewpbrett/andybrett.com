@@ -1,8 +1,22 @@
 <div class="bookmark">
-	<a href="{{ post.external_link }}">{{ post.title }}</a>
+	<a href="{{ post.external_link }}{% if post == null %}{{ page.external_link }}{% endif%}">
+		{{ post.title }}
+		{% if post == null %}
+			{{ page.title }}
+		{% endif %}
+	</a>
 	<div class="clear"></div>
 	{{ post.content }}
+	{% if post == null %}
+		{{ content }}
+	{% endif %}
 	<div class="permalink">
-		<a href="{{ post.id }}">{{ post.date | date_to_string }}</a>
+		<a href="{{ post.id }}">
+			{% if post == null %}
+				{{ page.date | date_to_string }}
+			{% else %}
+				{{ post.date | date_to_string }}			
+			{% endif %}
+		</a>
 	</div>	
 </div>

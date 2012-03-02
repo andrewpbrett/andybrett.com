@@ -4,7 +4,7 @@ title: Andy Brett
 ---
 <div id="timeline">
 	{% for post in site.posts limit: 50 %}
-		{% case post.layout %}
+		{% case post.type %}
 			{% when "post" %}
 				{% include post.html %}
 			{% when "bookmark" %}

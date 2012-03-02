@@ -1,5 +1,6 @@
 ---
-layout: post
+type: post
+layout: main
 title: Jekyll, Dropbox, and Mongo, Oh My
 ---
 
