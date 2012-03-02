@@ -38,7 +38,7 @@ h1#summary{float:left;margin:46px 10px;padding:10px 32px;}
 .posts_year{font-weight:bold;border-bottom:1px solid #333f62;padding-bottom:14px;}
 .post{line-height:28px;float:left;}
 .post .permalink{padding:0px 20px;margin:0px;float:left;}
-.post .title{padding:0px 20px;float:left;margin:12px 0px;}
+.post .title{padding:0px 20px;margin:12px 0px;}
 .post_body{padding:0px 20px;float:left;}
 .post_body a{font-weight:bold;}
 #timeline .post .permalink,#timeline .post .title,#timeline .post .post_body{padding:0;}
