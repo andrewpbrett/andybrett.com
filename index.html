@@ -1,14 +1,16 @@
 ---
-layout: default
+layout: main
 title: Andy Brett
 ---
-
 <div id="timeline">
-  <ul class="posts">
-    {% for post in site.posts limit: 50 %}
-			{% if post.layout == "post" or post.layout == "bookmark" or post.layout == "photo" %}
-      	<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.id }}">{{ post.title }}</a></li>
-			{% endif %}
-    {% endfor %}
-  </ul>
+	{% for post in site.posts limit: 50 %}
+		{% case post.layout %}
+			{% when "post" %}
+				{% include post.html %}
+			{% when "bookmark" %}
+				{% include bookmark.html %}
+			{% when "photo" %}
+				{% include photo.html %}
+		{% endcase %}
+  {% endfor %}
 </div>

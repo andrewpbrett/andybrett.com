@@ -17,7 +17,7 @@ blockquote{margin:0px 15px;margin-left:15px;padding-left:15px;border-left:2px so
 h1#summary{float:left;margin:46px 10px;padding:10px 32px;}
 #name{font-weight:bold;}
 #nav_bar{margin-top:-40px;border-bottom:2px solid #333f62;width:100%;background-color:#ebf2f8;padding:5px;}
-#nav_list{font-size:20px;width:880px;margin:auto 0px;padding:0px;}
+#nav_list{font-size:20px;width:887px;margin:auto 0px;padding:4px;}
 #nav_list ul{float:right;padding:0;margin:0;}
 #nav_list ul li{float:left;list-style:none;margin:0px 10px;}
 #nav_list ul li.last{margin-right:0px;}
@@ -36,7 +36,7 @@ h1#summary{float:left;margin:46px 10px;padding:10px 32px;}
 #posts div{margin:0px 20px;}
 #posts a{color:inherit;font-weight:300;}
 .posts_year{font-weight:bold;border-bottom:1px solid #333f62;padding-bottom:14px;}
-.post{line-height:28px;}
+.post{line-height:28px;float:left;}
 .post .permalink{padding:0px 20px;margin:0px;float:left;}
 .post .title{padding:0px 20px;float:left;margin:12px 0px;}
 .post_body{padding:0px 20px;float:left;}
@@ -49,6 +49,5 @@ h1#summary{float:left;margin:46px 10px;padding:10px 32px;}
 .caption{text-align:center;}
 #updates{padding-top:20px;}
 .update{width:560px;}
-.bookmark{margin-top:0px;border-bottom:1px solid #c3c3c3;padding:20px;}
-.bookmark{width:560px;}
+.bookmark{margin-top:0px;border-bottom:1px solid #c3c3c3;padding:20px;width:560px;float:left;}
 #footer{padding:10px 0px;text-align:right;height:30px;}
