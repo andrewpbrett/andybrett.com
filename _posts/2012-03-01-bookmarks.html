@@ -2,10 +2,8 @@
 layout: main
 title: Andy Brett | Bookmarks
 ---
-<ul class="posts">
-  {% for post in site.posts %}
-		{% if post.type == "bookmark" %}
-			{% include bookmark.html %}
-		{% endif %}
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+	{% if post.type == "bookmark" %}
+		{% include bookmark.html %}
+	{% endif %}
+{% endfor %}
