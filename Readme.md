@@ -9,7 +9,7 @@ There's some additional Ruby glue running up in the cloud that pulls images I ad
 
 The following directories and their contents are copyright Andy Brett. You may not reuse anything therein without my permission:
 
-_posts/
-images/
+- _posts/
+- images/
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
