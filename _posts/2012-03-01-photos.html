@@ -7,7 +7,7 @@ title: Andy Brett | Photos
 		{% if post.layout == "photo" %}
 			<div class="photo">
 				<a class="gallery_image" href="{{ post.source_url }}" rel="gallery" data-caption="{{ post.caption }}">
-					<img src="{{ post.source_url }}" />
+					<img src="{{ post.thumbnail_url }}" />
 				</a>
 			</div>
 		{% endif %}
