@@ -3,14 +3,12 @@ layout: main
 title: Andy Brett
 ---
 <div id="timeline">
-	{% for post in site.posts limit: 50 %}
+	{% for post in site.posts limit: 100 %}
 		{% case post.type %}
 			{% when "post" %}
 				{% include post.html %}
 			{% when "bookmark" %}
 				{% include bookmark.html %}
-			{% when "photo" %}
-				{% include photo.html %}
 		{% endcase %}
   {% endfor %}
 </div>

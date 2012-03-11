@@ -15,9 +15,7 @@ The ideal solution would really be if Dropbox provided a way to just embed a pho
 
 So this morning I set out to kludge together a solution of my own. Using the ruby dropbox SDK gem, I have a script that pings Dropbox to see if any photos have been added to the "Public/Photos" folder (first checking the returned hash from Dropbox, and then checking each path for uniqueness against a local redis instance). If it finds anything new, it grabs the public link and uses that to create a new post in my Jekyll install. Then, using the ruby-git gem, it commits the new file and pushes to GitHub. When GitHub receives the push it regenerates the site with the new photo page. 
 
-Pretty Rube-Goldbergian if I say so myself. For all the gory details, or if you'd like to try this yourself, the [code is on GitHub][4].
-
-I'll be making various improvements as I have time
+Pretty Rube-Goldbergian if I say so myself. For all the gory details, or if you'd like to try this yourself, the [code is on GitHub][4]. I'll be making various improvements as I have time. Pull requests welcome. 
 
 [1]: https://github.com/mojombo/jekyll
 [2]: https://github.com/andrewpbrett/jekyll_to_markdown
