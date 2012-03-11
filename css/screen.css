@@ -37,7 +37,7 @@ h1#summary{float:left;margin:46px 10px;padding:10px 32px;}
 .post_body a{font-weight:bold;}
 #timeline .post div, #timeline .post h2{padding:0;}
 #photos{width:1072px;margin:auto;}
-#photos .photo{margin:14px;width:123;height:123;float:left;}
+#photos .photo{margin:14px;width:123px;height:123px;float:left;}
 #photos .photo img{border:1px solid #333f62;padding:2px;}
 .photo{margin:auto;width:530px;}
 .caption{text-align:center;}
