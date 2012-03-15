@@ -13,7 +13,7 @@ videos on [justin.tv](http://www.justin.tv/startupschool) eventually.
 This is, of course, tongue in cheek. But more than half the speakers said, in
 one form or another, do not start a startup. The summary went something like:
 
-_ Don't start a company just for the sake of starting a company. Don't start a
+_Don't start a company just for the sake of starting a company. Don't start a
 company because it's cool. Don't start one because you think it's going to
 turn out like it does in the fictional movies, because it won't - [death is
 the default for startups](http://www.paulgraham.com/hubs.html). Don't start a
