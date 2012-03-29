@@ -1,5 +1,5 @@
 desc 'create new post or bookmark. args: type (post, bookmark), title, slug'
-# rake new type=(bit|post) future=0 title="New post title goes here" slug="slug-override-title"
+# rake new type=(bookmark|post) future=0 title="New post title goes here" slug="slug-override-title"
 task :new do  
   type = ENV["type"] || "bookmark"
   title = ENV["title"] || "New Title"
