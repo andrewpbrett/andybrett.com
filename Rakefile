@@ -4,7 +4,7 @@ task :new do
   type = ENV["type"] || "bookmark"
   title = ENV["title"] || "New Title"
   external_link = ENV["link"] || "LINK"
-  slug = title.gsub(' ','-').downcase
+  slug = title.gsub(' ','-').gsub(/[\'\?\:\.]/, '').downcase
   slug = ENV["slug"].gsub(' ','-').downcase if ENV["slug"]
 
   filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
