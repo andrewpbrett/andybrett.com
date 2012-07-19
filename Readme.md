@@ -1,6 +1,6 @@
 ### About
 
-This is the data for my personal site and blog, [andybrett.com](andybrett.com). It's powered by [Jekyll](https://github.com/mojombo/jekyll), which 
+This is the data for my personal site and blog, [andybrett.com](http://andybrett.com). It's powered by [Jekyll](https://github.com/mojombo/jekyll), which 
 automatically generates a new static site whenever I push content to github. 
 
 There's some additional Ruby glue running up in the cloud that pulls images I add to my Dropbox public folder and adds them to the image page. 
