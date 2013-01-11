@@ -35,7 +35,7 @@ place).
 
 At the time, I wasn't really aware of the place that TechCrunch had in the
 startup ecosystem. I was clearly aware that it existed, given that I linked to
-them in a [post](http://andybrett.com/freedom-to-tinker) I wrote:, but I
+them in a [post](http://andybrett.com/freedom-to-tinker) I wrote, but I
 probably couldn't have told you who Michael Arrington was as opposed to the
 other writers.
 
