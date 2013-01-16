@@ -29,13 +29,13 @@ at TechCrunch. Funny how the mind revises history.
 The interview went well and I took the weekend to think about things while
 visiting some people in San Francisco and checking out the city. I vividly
 remember getting a phone call from Mike while walking along a trail in the
-Presidio - I stayed exactly in the same spot while we talked for fear of AT&T;
+Presidio - I stayed exactly in the same spot while we talked for fear of AT&T
 dropping the call (I honestly don't know how it went through in the first
 place).
 
 At the time, I wasn't really aware of the place that TechCrunch had in the
 startup ecosystem. I was clearly aware that it existed, given that I linked to
-them in a [post](http://andybrett.com/freedom-to-tinker) I wrote:, but I
+them in a [post](http://andybrett.com/freedom-to-tinker) I wrote, but I
 probably couldn't have told you who Michael Arrington was as opposed to the
 other writers.
 
