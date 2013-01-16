@@ -5,7 +5,7 @@
 		<link rel="shortcut icon" type="image/png" href="/favicon.png">
 		<meta name="google-site-verification" content="dPYG0gqQlcAXqTFAg8nZpvV-7wx51ZRc5D096cVHw7c"/>
 		<meta name="verify-v1" content="GACJqKSgAOuYP5m5PFvn0joQ93sv9TkbfyKQUM4quXk="/>
-		<meta name="description" content="Home page for Andy Brett, a writer, engineer, and athlete living in Silicon Valley."/>
+		<meta name="description" content="Home page for Andy Brett, a writer, engineer, and athlete"/>
 		<link href="/css/screen.css" media="screen" rel="stylesheet" type="text/css"/>
 		<link href="/writing.rss" rel="alternate" title="RSS" type="application/rss+xml"/>
 	</head>
@@ -13,11 +13,11 @@
 		<div id='header'>
 			<div id='headline'>
 				<a href='/'>
-					<img alt="Andy Brett" id="profile_pic" height="198px" width="130px" src="/images/andy_brett.png"/>
+					<img alt="Andy Brett" id="profile_pic" src="/images/andy_brett.png"/>
 				</a>
 				<h1 id='summary'>
 					<span id='name'><a href='/'>Andy Brett</a></span>
-					is a writer, engineer, and athlete living in Silicon Valley
+					is an engineer, writer, and athlete
 				</h1>
 			</div>
 			<div class='clear'></div>
@@ -50,15 +50,6 @@
 					{% else %}
 						<li id='projects'>
 							<a href='/projects'>Projects</a>
-						</li>					
-					{% endif %}
-					{% if page.title == "Andy Brett | Photos" %}
-						<li id='photos_nav' class='active'>
-							<a href='/photos'>Photos</a>
-						</li>
-					{% else %}
-						<li id='photos_nav'>
-							<a href='/photos'>Photos</a>
 						</li>					
 					{% endif %}
 					{% if page.title == "Andy Brett | About" %}
