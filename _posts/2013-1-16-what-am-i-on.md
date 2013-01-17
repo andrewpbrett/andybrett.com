@@ -29,7 +29,7 @@ Let's add the petulant child to our analogy - as the [driver of the car](http://
 
 There are many ways to deal with a petulant child. You can guide him away from situations where he's going to demand appeasement (not buying low quality but highly appealing food in the first place). You can buy earplugs that soften his screams (taking ibuprofen after skiing for 9 hours).
 
-But what's the equivalent of telling the child to "use your words"? Making him tell you *why* he's asking you to do this. Or making him tell you the truth about what he can see on the dashboard.
+But what's the equivalent of telling the child to "use your words"? Making him tell you *why* he's asking you to do this? Or making him tell you the truth about what he can see on the dashboard?
 
 This is where the progress becomes lopsided. There are all sorts of ways (drugs) to cause very precise and potent effects in the body. We have had ways of dealing with the petulant child, like ibuprofen, for decades. But we're still only capable of muffling his screams or distracting him.
 
