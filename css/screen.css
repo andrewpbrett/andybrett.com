@@ -36,11 +36,11 @@ h1#summary{float:left;margin:18px -9px;padding:10px 32px;}
 .post_body{padding:0px 20px;float:left;}
 .post_body a{font-weight:bold;}
 #timeline .post div, #timeline .post h2{padding:0;}
-#photos{width:95%;margin:auto;}
+/*#photos{width:95%;margin:auto;}
 #photos .photo{margin:14px;width:123px;height:123px;float:left;}
 #photos .photo img{border:1px solid #333f62;padding:2px;}
 .photo{margin:auto;width:530px;}
-.caption{text-align:center;}
+.caption{text-align:center;}*/
 #updates{padding-top:20px;}
 .update{width:560px;}
 .bookmark{margin-top:0px;border-bottom:1px solid #c3c3c3;padding:20px;width:560px;}
