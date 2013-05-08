@@ -11,8 +11,7 @@ work by her photographic memory. When she wanted to remember a scene, she
 simply said, "Click!" and it was permanently preserved.
 
 Soon, [anyone will be able to do
-this](http://bits.blogs.nytimes.com/2011/12/18/wearing-your-computer-on-your-
-sleeve/).
+this](http://bits.blogs.nytimes.com/2011/12/18/wearing-your-computer-on-your-sleeve/).
 
 I have a feeling that [Path](http://path.com) realized this a while ago and is
 skating to where the puck is going to be. Their cutesy [demo
