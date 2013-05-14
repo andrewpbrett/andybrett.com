@@ -1,7 +1,7 @@
 ---
 type: post
 layout: main
-title: "Trains in Japan are amazing"
+title: "Trains In Japan Are Amazing"
 ---
 The subway stops are numbered. The cars are numbered. The exits on the cars are numbered. The \*doors on the exits\* are labeled "A" and "B". That last one might not do anyone any good except for the people doing maintenance on the cars, but the other labels sure do. There's a sign in every station that tells you which car you should board based on the stop where you're going or line you're transferring to. In NYC there's an app (Exit Strategy) and an entire subculture based on figuring that out. Tokyo just does it. 
 
