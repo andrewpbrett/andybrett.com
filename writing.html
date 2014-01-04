@@ -4,8 +4,11 @@ title: Andy Brett | Writing
 ---
 <div id="timeline">
 	{% for post in site.posts %}
-		{% if post.type == "post" %}
+    {% capture i %}{{ forloop.index }}{% endcapture %}
+		{% if forloop.index < 10 %}
 			{% include post.html %}
+    {% elsif post.type == "post" %}
+      {% include post_link.html %}
 		{% endif %}
   {% endfor %}
 </div>

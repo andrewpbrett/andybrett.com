@@ -3,12 +3,13 @@ layout: main
 title: Andy Brett
 ---
 <div id="timeline">
-	{% for post in site.posts limit: 100 %}
-		{% case post.type %}
-			{% when "post" %}
-				{% include post.html %}
-			{% when "bookmark" %}
-				{% include bookmark.html %}
-		{% endcase %}
+	{% for post in site.posts %}
+    {% if post.type == "post" %}
+      {% if forloop.index == 1 %}
+        {% include post.html %}
+      {% else %}
+        {% include post_link.html %}
+      {% endif %}
+    {% endif %}
   {% endfor %}
 </div>
