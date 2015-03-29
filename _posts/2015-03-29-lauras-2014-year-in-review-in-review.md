@@ -13,7 +13,7 @@ A highlight of this first side is Katie Queen of Tennessee, and one wonders if L
 
 From Tennessee we're taken to a saloon in Texas and an old timey piano with I Know It's Wrong. An unexpected star of the next track, Slow Motion, is Chester Van Huss's clarinet, perfectly complimenting the lead vocals.
 
-The side closes strong with three tracks: When You Were Mine, a throwback to the 80's that likely should have a smoke machine in the music video; Brill Bruisers, a love child of OK GO and the Decembrists; and finally Archie Marry Me. Coincidentally, when sorted by artist, this track appears in my library next to Sister Golden Hair (with the lyrics "I ain't ready for the altar"), resulting in a cross-decade call and answer duet.
+The side closes strong with three tracks: When You Were Mine, a throwback to the 80's that likely should have a smoke machine in the music video; Brill Bruisers, a love child of OK GO and the Decembrists; and finally Archie Marry Me. Coincidentally, when sorted by artist, "Marry Me" appears in my library next to Sister Golden Hair (with the lyrics "I ain't ready for the altar"), resulting in a cross-decade call and answer duet.
 
 Beyonce is the headline artist on the B sides - or should I say, the Bey sides - but she's overshadowed by some stellar tracks from far less well known artists. We hear more syncopation right off the bat from The Both in Milwaukee, and then get a driving, upbeat love ballad to Alexandra.
 
