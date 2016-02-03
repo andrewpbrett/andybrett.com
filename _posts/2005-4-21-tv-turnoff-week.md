@@ -12,12 +12,12 @@ April 25-May 1. In addition, Adbusters is now selling the
 25th!), a device that acts as a universal remote and will allow the user to
 turn off any TV in any public place to help remind people of what week it is.
 
-  
+
 The discussion is at [Hit and
 Run](http://www.reason.com/hitandrun/2005/04/idiot_vs_idiot.shtml), run by
 Julian Sanchez, who kicks it off by saying:
 
-> Except, naturally, they've found a way to turn what had been voluntary and
+Except, naturally, they've found a way to turn what had been voluntary and
 innocuous [TV Turnoff Week] into something intrusive and obnoxious [the
 TV-B-Gone].
 
@@ -34,7 +34,6 @@ absolutely unavoidable, which I have a hard time believing, stop frequenting
 whatever place it is, and write a letter to the relevant parties explaining
 why you've stopped.
 
-  
+
 On a related note, some asshole just came into Wilcox and turned the TV
 on...I'm going to go sit by the other couches. :-)
-

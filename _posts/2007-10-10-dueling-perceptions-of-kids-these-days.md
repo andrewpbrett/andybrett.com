@@ -9,9 +9,8 @@ there are two interesting columns in the New York Times from two very smart
 guys. The columns are currently jockeying for position on the most emailed
 list - since David Brooks is in the lead right now he goes first here:
 
-  
-[The Odyssey Years](http://www.nytimes.com/2007/10/09/opinion/09brooks.html?ex
-=1349668800&en=c55694c6ad19bc63&ei=5124&partner=permalink&exprod=permalink)
+
+[The Odyssey Years](http://www.nytimes.com/2007/10/09/opinion/09brooks.html?ex=1349668800&en=c55694c6ad19bc63&ei=5124&partner=permalink&exprod=permalink)
 
 > Of the new [life phases], the least understood is odyssey, the decade of
 wandering that frequently occurs between adolescence and adulthood...During
@@ -23,11 +22,11 @@ uncertainty, diversity, searching and tinkering. Old success recipes don't
 apply, new norms have not been established and everything seems to give way to
 a less permanent version of itself.
 
-  
+
 And in the other corner, weighing in at a hefty 201 pounds (200 is his actual
 weight, the mustache adds the extra pound):
 
-  
+
 [Tom Friedman with "Generation Q"](http://www.nytimes.com/2007/10/10/opinion/1
 0friedman.html?ex=1349755200&en=ff29ccf489dafa9b&ei=5124&partner=permalink&exp
 rod=permalink)
@@ -39,4 +38,3 @@ it demanded from every candidate who comes on campus answers to three
 questions: What is your plan for mitigating climate change? What is your plan
 for reforming Social Security? What is your plan for dealing with the deficit
 -- so we all won't be working for China in 20 years?
-
