@@ -1,2 +1,4 @@
 permalink: /:title.html
-pygments: true
+kramdown:
+  input: GFM
+  hard_wrap: false
