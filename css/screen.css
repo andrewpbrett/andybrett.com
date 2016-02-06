@@ -26,7 +26,7 @@ h1#summary{float:left;margin:18px -9px;padding:10px 32px;}
 .text_container,#flashnotice,#posts,.post,#updates,.update,.bookmark,.admin_form{margin:auto;width:600px;margin-top:25px;}
 #timeline{line-height:20px;display:block;margin-top:5px;}
 .fancybox-title-inside .permalink{float:right;}
-#timeline .bookmark,#timeline .post,#timeline .post-link{border-bottom:1px solid #c3c3c3;padding:20px;line-height:26px;width:560px;}
+#timeline .bookmark,#timeline .post,#timeline .post-link{padding:20px;line-height:26px;width:560px;}
 #timeline .post-link { border-bottom: 0; margin: auto; padding: 0; }
 #timeline .post-link .title { margin-bottom: 0px; font-size: 16px; }
 #timeline .post-link .link-date { font-size: 14px; }
