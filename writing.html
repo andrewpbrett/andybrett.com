@@ -3,8 +3,15 @@ layout: main
 title: Andy Brett | Writing
 ---
 <div id="timeline">
+  {% assign year = "" %}
   {% for post in site.posts %}
     {% if post.type == "post" %}
+      {% assign new_year = post.date | date: "%Y" %}
+      {% if year != new_year %}
+        <div class="header-date">{{ new_year }}</div>
+        <div class="clear"></div>
+        {% assign year = post.date | date: "%Y" %}
+      {% endif %}
       {% include post_link.html %}
     {% endif %}
   {% endfor %}
