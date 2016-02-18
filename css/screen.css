@@ -35,6 +35,7 @@ h1#summary{float:left;margin:18px -9px;padding:10px 32px;}
 .post{line-height:28px;}
 .post div, .post h2{padding:0px 20px;margin:0px;}
 .post .title{padding:0px 20px;margin:12px 0px;}
+.post .title a {font-weight: bold;}
 .post_body{padding:0px 20px;float:left;}
 .post_body a{font-weight:bold;}
 #timeline .post div, #timeline .post h2{padding:0;}
