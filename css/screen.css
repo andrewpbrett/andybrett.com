@@ -54,3 +54,4 @@ h1#summary{float:left;margin:18px -9px;padding:10px 32px;}
 .things ul li.details span { border-bottom: 1px dotted #333f62; line-height: 20px; }
 .header-date{padding:20px 0px 0px 0px;line-height:26px;width:560px;margin:auto;border-bottom:1px solid #c3c3c3;}
 #more-writing{padding:20px 0px 0px 0px;line-height:26px;width:560px;margin:auto;}
+hr { border: 1px solid #ccc; width: 100px; margin: 30px auto; }
