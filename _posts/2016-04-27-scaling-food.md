@@ -6,6 +6,10 @@ layout: main
 
 > If you were dropped at a random point in America today, nearly all the food around you would be bad for you. [...] The only people who eat what humans were actually designed to eat are a few Birkenstock-wearing weirdos in Berkeley. [...] If people have to choose between something that's cheap, heavily marketed, and appealing in the short term, and something that's expensive, obscure, and appealing in the long term, which do you think most will choose?
 
+<p style="float:right;">- <a href="http://www.paulgraham.com/boss.html">Paul Graham</a></p>
+<br/>
+
+
 When people perfect a process, they gain the ability to predict the future in a small way, which is a very comforting thing. People love being able to say, with confidence, that "if I have these raw materials, this equipment, and this amount of time, I can, if I so choose, turn those into this amount of some other thing. Or I can keep the raw materials and do something else with them entirely - it's up to me! I have agency and control over my destiny!" If they don't say that last part verbatim and out loud they're probably just thinking it.
 
 People also love to make even more powerful predictions about the future, which means increasing the number of zeros on the inputs and outputs of a process, especially if the outputs can be sold for more than the cost of the inputs. So the natural thing to do with a process is to scale it up.
