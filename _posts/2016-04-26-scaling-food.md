@@ -7,6 +7,7 @@ layout: main
 
 <p style="float:right;">- <a href="http://www.paulgraham.com/boss.html">Paul Graham</a></p>
 <br/>
+<br/>
 
 
 When people perfect a process, they gain the ability to predict the future in a small way, which is a very comforting thing. People love being able to say, with confidence, that "if I have these raw materials, this equipment, and this amount of time, I can, if I so choose, turn those into this amount of some other thing. Or I can keep the raw materials and do something else with them entirely - it's up to me! I have agency and control over my destiny!" If they don't say that last part verbatim and out loud they're probably just thinking it.
