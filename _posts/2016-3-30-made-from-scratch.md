@@ -5,7 +5,7 @@ layout: main
 ---
 "So what kind of hops did you use when you made your own beer?"
 
-It had been seven years since those two batches of IPA, but I had mentioned beer-making as a credential when I talked to my hosts over the phone, in an attempt to seem like I would be remotely useful to them. Now we were standing over a steaming vat of wort and stirring it with a huge stick. Fair was foul and foul was fairi .
+It had been seven years since those two batches of IPA, but I had mentioned beer-making as a credential when I talked to my hosts over the phone, in an attempt to seem like I would be remotely useful to them. Now we were standing over a steaming vat of wort and stirring it with a huge stick. Fair was foul and foul was fair.
 
 "The hops... were IPA hops?"
 
