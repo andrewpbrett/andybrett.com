@@ -1,5 +1,5 @@
 ---
-type: POST
+type: post
 title: "Teaching Machines Original Thinking"
 layout: main
 ---
