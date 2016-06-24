@@ -3,7 +3,7 @@ type: post
 title: "L'expérience Mentale d'iPhone"
 layout: main
 ---
-Tim Urban de le site web "Wait But Why" [demande un question intéressante][original] (traduit):
+Tim Urban de le site web "Wait But Why" [demande un question intéressante][original] (traduire):
 
 >Une sorcière très puissant jeter un sort sur tout l'humanité. Tout le choses fait de gens disparaître. Chaque personne est lassé nu dans le place exactement où ils étaient. Chaque personne sait que ils savent maintenant...Chaque personne aussi a une papier que dit "ce sort magique finira quand l'humanité produit un iPhone 6S, que marcher parfaitement. À l'instant que ça arrive, tout les choses fait de gens reapparaîtra"...Le question est: combien du temps avant humanité peuvent produire l'iPhone 6S, [à partir de zéro][scratch]?
 
