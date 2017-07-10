@@ -11,45 +11,38 @@
 	</head>
 	<body>
 		<div id='header'>
-			<div id='headline'>
+			<div id='nav_bar'>
 				<a href='/'>
 					<img alt="Andy Brett" id="profile_pic" src="/images/andy_brett.png"/>
 				</a>
-				<h1 id='summary'>
-					<span id='name'><a href='/'>Andy Brett</a></span>
-					is an engineer, writer, and athlete
-				</h1>
+				<div id='nav_list'>
+					<ul>
+						{% if page.title == "Andy Brett | Writing" %}
+							<li id='writing' class='active'>
+								<a href='/writing'>Writing</a>
+							</li>
+						{% else %}
+							<li id='writing'>
+								<a href='/writing'>Writing</a>
+							</li>
+						{% endif %}
+						<li id='reading'>
+							<a href='https://getpocket.com/@andrewpbrett' target='_blank'>Reading</a>
+						</li>
+						<li id='photos'>
+							<a href='http://instagram.com/andrewpbrett' target='_blank'>Photos</a>
+						</li>
+						{% if page.title == "Andy Brett | Projects" %}
+							<li id='projects' class='active'>
+								<a href='/projects'>Projects</a>
+							</li>
+						{% else %}
+							<li id='projects'>
+								<a href='/projects'>Projects</a>
+							</li>
+						{% endif %}
+					</ul>
+				</div>
+				<div class='clear'></div>
 			</div>
-			<div class='clear'></div>
-		</div>
-		<div id='nav_bar'>
-			<div id='nav_list'>
-				<ul>
-					{% if page.title == "Andy Brett | Writing" %}
-						<li id='writing' class='active'>
-							<a href='/writing'>Writing</a>
-						</li>
-					{% else %}
-						<li id='writing'>
-							<a href='/writing'>Writing</a>
-						</li>
-					{% endif %}
-					<li id='reading'>
-						<a href='https://getpocket.com/@andrewpbrett' target='_blank'>Reading</a>
-					</li>
-					<li id='photos'>
-						<a href='http://instagram.com/andrewpbrett' target='_blank'>Photos</a>
-					</li>
-					{% if page.title == "Andy Brett | Projects" %}
-						<li id='projects' class='active'>
-							<a href='/projects'>Projects</a>
-						</li>
-					{% else %}
-						<li id='projects'>
-							<a href='/projects'>Projects</a>
-						</li>
-					{% endif %}
-				</ul>
-			</div>
-			<div class='clear'></div>
 		</div>
