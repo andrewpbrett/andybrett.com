@@ -3,5 +3,10 @@ layout: main
 title: Andy Brett
 ---
 
-{% assign post = site.posts | first %}
-{% include post.html %}
+{% for p in site.posts %}
+  {% if p.type == 'post' %}
+    {% assign post = p %}
+    {% include post.html %}
+    {% break %}
+  {% endif %}
+{% endfor %}
