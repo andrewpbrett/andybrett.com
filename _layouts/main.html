@@ -5,8 +5,9 @@
 		{% case page.type %}
 			{% when "post" %}
 				{% include post.html %}
-			{% when "bookmark" %}
-				{% include bookmark.html %}
+			{% when "photo" %}
+				{% assign photo = page %}
+				{% include photo.html %}
 			{% else %}
 				{{ content }}
 		{% endcase %}

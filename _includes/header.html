@@ -28,9 +28,15 @@
 						<li id='reading'>
 							<a href='https://getpocket.com/@andrewpbrett' target='_blank'>Reading</a>
 						</li>
-						<li id='photos'>
-							<a href='http://instagram.com/andrewpbrett' target='_blank'>Photos</a>
+						{% if page.title == "Andy Brett | Photos" %}
+						<li id='photos' class='active'>
+							<a href='/photos'>Photos</a>
 						</li>
+						{% else %}
+							<li id='photos'>
+								<a href='/photos'>Photos</a>
+							</li>
+						{% endif %}
 						{% if page.title == "Andy Brett | Projects" %}
 							<li id='projects' class='active'>
 								<a href='/projects'>Projects</a>
