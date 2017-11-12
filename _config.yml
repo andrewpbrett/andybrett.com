@@ -1,4 +1,4 @@
-permalink: /:title.html
+permalink: /:categories/:title.html
 kramdown:
   input: GFM
   hard_wrap: false
