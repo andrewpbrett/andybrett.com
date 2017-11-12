@@ -16,36 +16,34 @@
 				</a>
 				<div id='nav_list'>
 					<ul>
-						{% if page.title == "Andy Brett | Writing" %}
+						{% if page.url == "/writing" %}
 							<li id='writing' class='active'>
-								<a href='/writing'>Writing</a>
-							</li>
 						{% else %}
 							<li id='writing'>
+						{% endif %}
 								<a href='/writing'>Writing</a>
 							</li>
+						{% if page.url == "/reading" %}
+							<li id='reading' class='active'>
+						{% else %}
+							<li id='reading'>
 						{% endif %}
-						<li id='reading'>
-							<a href='https://getpocket.com/@andrewpbrett' target='_blank'>Reading</a>
-						</li>
-						{% if page.title == "Andy Brett | Photos" %}
-						<li id='photos' class='active'>
-							<a href='/photos'>Photos</a>
-						</li>
+								<a href='/reading'>Reading</a>
+							</li>
+						{% if page.url == "/photos" %}
+							<li id='photos' class='active'>
 						{% else %}
 							<li id='photos'>
+						{% endif %}
 								<a href='/photos'>Photos</a>
 							</li>
-						{% endif %}
-						{% if page.title == "Andy Brett | Projects" %}
+						{% if page.url == "/projects" %}
 							<li id='projects' class='active'>
-								<a href='/projects'>Projects</a>
-							</li>
 						{% else %}
 							<li id='projects'>
+						{% endif %}
 								<a href='/projects'>Projects</a>
 							</li>
-						{% endif %}
 					</ul>
 				</div>
 				<div class='clear'></div>
