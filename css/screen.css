@@ -40,7 +40,6 @@ h1#summary{float:left;margin:18px -9px;padding:10px 32px;}
 #timeline .post div, #timeline .post h2{padding:0;}
 #updates{padding-top:20px;}
 #footer{padding:10px 0px;text-align:right;height:30px;}
-.external_link{padding:0px 25px 1px 0px;background-image:url('/css/images/external.png');background-repeat:no-repeat;background-position:right;}
 .post .thing-group { padding: 0; font-weight: bold; }
 .things ul { list-style: none; padding: 0; margin: 0; }
 .things ul li.details span { border-bottom: 1px dotted #333f62; line-height: 20px; }

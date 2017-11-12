@@ -7,18 +7,18 @@
 		{{ content }}
 
 		<div class="date">{{ page.date | date: "%-d %b %Y" }}</div>
-			
+
 	{% else %}
 
-		<a href="{{ post.external_link }}" class="external_link">{{ post.title }}</a>
-		<div class="clear"></div>	
+		<a href="{{ post.external_link }}">{{ post.title }}</a>
+		<div class="clear"></div>
 
 		<div class="permalink">
 			<a href="{{ post.id }}">{{ post.date | date: "%-d %b %Y" }}</a>
 		</div>
 
 		{{ post.content }}
-		
+
 	{% endif %}
-	
+
 </div>
