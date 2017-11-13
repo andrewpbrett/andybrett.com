@@ -3,7 +3,7 @@ layout: main
 title: Andy Brett | Reading
 ---
 <div id="timeline">
-  {% assign year = date: "%Y" %}
+  {% assign year = site.time | date: '%Y' %}
   {% for post in site.posts %}
     {% if post.type == "bookmark" %}
       {% assign new_year = post.date | date: "%Y" %}
