@@ -1,2 +1,4 @@
+*.sh
+*.out
 assets/
 _site/
