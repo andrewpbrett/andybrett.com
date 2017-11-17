@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "How To Run For 13 Hours"
 ---

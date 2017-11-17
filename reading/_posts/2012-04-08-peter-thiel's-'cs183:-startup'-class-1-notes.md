@@ -1,5 +1,4 @@
 --- 
-type: bookmark
 title: "Peter Thiel's 'CS183: Startup' Class 1 Notes"
 layout: main
 external_link: http://blakemasters.tumblr.com/post/20400301508/cs183class1

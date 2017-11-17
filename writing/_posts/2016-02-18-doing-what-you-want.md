@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Doing What You Want"
 layout: main
 ---

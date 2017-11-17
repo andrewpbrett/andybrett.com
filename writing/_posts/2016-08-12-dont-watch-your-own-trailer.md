@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Don't Watch Your Own Trailer"
 layout: main
 ---

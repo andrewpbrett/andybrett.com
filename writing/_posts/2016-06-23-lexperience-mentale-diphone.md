@@ -1,5 +1,4 @@
 ---
-type: post
 title: "L'expérience Mentale d'iPhone"
 layout: main
 ---

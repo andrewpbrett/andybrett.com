@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Emily Wilson"
 external_link: "http://poems.com/special_features/prose/essay_wilson_odyssey.php"

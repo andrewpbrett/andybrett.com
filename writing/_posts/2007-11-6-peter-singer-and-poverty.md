@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Peter Singer and Poverty"
 ---

@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Beyond 99 Things"
 layout: main
 ---

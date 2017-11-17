@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Not even wrong - ways to dismiss technology"
 external_link: "http://ben-evans.com/benedictevans/2017/5/24/not-even-wrong-ways-to-dismiss-technology"

@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "To Do: Integrate Jott and Remember the Milk"
 ---

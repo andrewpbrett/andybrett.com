@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Now With Photo Hosting!"
 ---

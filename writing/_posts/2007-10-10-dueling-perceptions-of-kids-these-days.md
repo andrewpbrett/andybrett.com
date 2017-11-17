@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Dueling Perceptions of \"Kids These Days\""
 ---

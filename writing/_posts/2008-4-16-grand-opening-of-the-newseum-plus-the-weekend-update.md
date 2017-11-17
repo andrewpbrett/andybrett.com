@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Grand Opening of the Newseum; Plus, the Weekend Update"
 ---

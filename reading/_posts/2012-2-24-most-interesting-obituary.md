@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "John Fairfax, Who Rowed Across Oceans, Dies at 74"
 external_link: http://www.nytimes.com/2012/02/19/us/john-fairfax-who-rowed-across-oceans-dies-at-74.html?_r=3

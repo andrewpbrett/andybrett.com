@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "The Return of the King"
 ---

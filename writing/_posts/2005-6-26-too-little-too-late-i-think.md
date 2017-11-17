@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Too little, too late (I think)"
 ---

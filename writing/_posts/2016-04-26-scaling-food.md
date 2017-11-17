@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Scaling Food"
 layout: main
 ---

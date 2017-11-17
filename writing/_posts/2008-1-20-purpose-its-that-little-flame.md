@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Purpose... it's that little flame..."
 ---

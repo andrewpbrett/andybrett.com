@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Japan’s government tries to free its soldiers from pacifist shackles"
 external_link: "http://www.economist.com/news/asia/21717079-many-army-apparently-had-no-idea-they-might-have-do-some-fighting-japans"

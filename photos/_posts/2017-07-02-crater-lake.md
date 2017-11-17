@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Crater Lake"
 filename: "20171116024929.jpg"

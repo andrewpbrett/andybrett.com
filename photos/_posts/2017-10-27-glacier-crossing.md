@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Glacier crossing"
 filename: "20171116031038.jpg"

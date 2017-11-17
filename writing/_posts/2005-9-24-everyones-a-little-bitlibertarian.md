@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Everyone's a little bit....libertarian"
 ---

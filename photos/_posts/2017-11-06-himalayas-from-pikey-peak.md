@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Himalayas from Pikey Peak"
 filename: "20171116032021.jpg"

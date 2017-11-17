@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "And now for something completely different"
 ---

@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Travel Recommendations for St. John, US Virgin Islands"
 ---

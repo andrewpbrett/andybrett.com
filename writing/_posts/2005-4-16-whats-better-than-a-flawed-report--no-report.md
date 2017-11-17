@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "What's better than a flawed report?  NO report!"
 ---

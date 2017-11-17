@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Accept Wet Feet"
 layout: main
 ---

@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "A New Learning Tool (Plus: How I Work Best)"
 ---

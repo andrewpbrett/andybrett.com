@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Cholatse and Tobuche with their lake"
 filename: "20171116031041.jpg"

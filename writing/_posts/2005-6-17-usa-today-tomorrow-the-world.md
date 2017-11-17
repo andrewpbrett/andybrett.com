@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "USA TODAY, tomorrow the world"
 ---

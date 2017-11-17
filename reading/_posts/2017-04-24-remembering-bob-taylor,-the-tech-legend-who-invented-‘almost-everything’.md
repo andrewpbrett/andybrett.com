@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Remembering Bob Taylor, the Tech Legend Who Invented ‘Almost Everything’"
 external_link: "https://www.wired.com/2017/04/youve-never-heard-tech-legend-bob-taylor-invented-almost-everything/"

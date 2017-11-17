@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "The time to hesitate is through...."
 ---

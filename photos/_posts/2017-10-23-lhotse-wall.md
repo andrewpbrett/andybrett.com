@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Lhotse wall"
 filename: "20171116030710.jpg"

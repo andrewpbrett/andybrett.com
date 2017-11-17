@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "How-To: Debian (Lenny) + Enterprise Ruby + Passenger + Git"
 ---

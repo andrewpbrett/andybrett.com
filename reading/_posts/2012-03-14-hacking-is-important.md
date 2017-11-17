@@ -1,5 +1,4 @@
 --- 
-type: bookmark
 title: "Hacking is Important"
 layout: main
 external_link: "http://www.randsinrepose.com/archives/2012/03/13/hacking_is_important.html"

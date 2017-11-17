@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Looking back toward Everest"
 filename: "20171116031419.jpg"

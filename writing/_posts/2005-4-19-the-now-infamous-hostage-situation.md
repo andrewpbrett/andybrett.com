@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "The now-infamous hostage situation"
 ---

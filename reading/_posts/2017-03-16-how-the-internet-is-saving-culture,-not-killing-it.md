@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "How the Internet Is Saving Culture, Not Killing It"
 external_link: "https://www.nytimes.com/2017/03/15/technology/how-the-internet-is-saving-culture-not-killing-it.html"

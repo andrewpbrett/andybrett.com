@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Friday Rant: \"Out of Pocket\""
 ---

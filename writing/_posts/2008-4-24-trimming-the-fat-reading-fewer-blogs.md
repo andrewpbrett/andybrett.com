@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Trimming the Fat: Reading Fewer Blogs"
 ---

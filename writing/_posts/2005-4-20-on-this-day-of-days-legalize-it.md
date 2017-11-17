@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "On this day of days: Legalize it"
 ---

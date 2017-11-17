@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Raw [Normalized] Data Now: Tim Berners-Lee and the Future of the Web"
 ---

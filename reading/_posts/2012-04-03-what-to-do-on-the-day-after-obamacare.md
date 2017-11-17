@@ -1,5 +1,4 @@
 --- 
-type: bookmark
 title: "What to Do on the Day After ObamaCare"
 layout: main
 external_link: http://online.wsj.com/article/SB10001424052702303816504577313250871503904.html?mod=WSJ_hp_mostpop_read

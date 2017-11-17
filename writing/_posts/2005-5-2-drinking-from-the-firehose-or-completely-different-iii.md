@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Drinking From the Firehose, or, Completely Different III"
 ---

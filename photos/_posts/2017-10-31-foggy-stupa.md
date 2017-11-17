@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Foggy stupa"
 filename: "20171116031650.jpg"

@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "How Nintendo told gamers to get lost"
 external_link: "http://www.economist.com/blogs/prospero/2017/03/legacy-zelda?fsrc=scn%2Ftw%2Fte%2Fbl%2Fed%2Fthelegacyofzeldahownintendotoldgamerstogetlost&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue"

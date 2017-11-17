@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "To the states!"
 ---

@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Living like New Yorkers"
 ---

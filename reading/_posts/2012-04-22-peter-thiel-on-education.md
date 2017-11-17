@@ -1,5 +1,4 @@
 --- 
-type: bookmark
 title: "Peter Thiel on Education"
 layout: main
 external_link: http://pandodaily.com/2012/04/20/pandomonthly-with-peter-thiel-recap-startups-competition-capitalism-bubbles/

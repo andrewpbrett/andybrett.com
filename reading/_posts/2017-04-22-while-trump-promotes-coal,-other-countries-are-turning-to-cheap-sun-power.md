@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "While Trump promotes coal, other countries are turning to cheap sun power"
 external_link: "http://www.washingtonpost.com/sf/world/2017/03/31/while-trump-promotes-coal-other-countries-are-turning-to-cheap-sun-power/?utm_campaign=Revue newsletter&utm_medium=Newsletter&utm_source=revue&utm_term=.799372b30648"

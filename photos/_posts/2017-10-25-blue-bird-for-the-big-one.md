@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Blue bird for the big one"
 filename: "20171116031019.jpg"

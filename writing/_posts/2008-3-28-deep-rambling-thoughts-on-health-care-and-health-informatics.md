@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Deep (Rambling) Thoughts on Health Care and Health Informatics"
 ---

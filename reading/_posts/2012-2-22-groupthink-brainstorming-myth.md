@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Groupthink: The Brainstorming Myth"
 external_link: http://www.newyorker.com/reporting/2012/01/30/120130fa_fact_lehrer?currentPage=all

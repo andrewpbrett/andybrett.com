@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Tell Me When"
 layout: main
 ---

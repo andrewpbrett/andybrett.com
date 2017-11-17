@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Ama Dablam base camp and Thamserku"
 filename: "20171116030343.jpg"

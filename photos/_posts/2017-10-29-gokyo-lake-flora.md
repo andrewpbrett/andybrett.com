@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Gokyo Lake flora"
 filename: "20171116031512.jpg"

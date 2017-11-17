@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Testing out a bit of a hack...."
 ---

@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Race Report: Coast Raid"
 ---

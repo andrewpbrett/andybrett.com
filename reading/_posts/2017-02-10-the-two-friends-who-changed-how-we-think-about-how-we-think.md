@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "The Two Friends Who Changed How We Think About How We Think"
 external_link: "http://www.newyorker.com/books/page-turner/the-two-friends-who-changed-how-we-think-about-how-we-think"

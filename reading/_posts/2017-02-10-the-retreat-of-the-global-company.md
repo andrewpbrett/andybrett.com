@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "The retreat of the global company"
 external_link: "http://www.economist.com/news/briefing/21715653-biggest-business-idea-past-three-decades-deep-trouble-retreat-global"

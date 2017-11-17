@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Potala palace, Lhasa"
 filename: "20171116025526.jpg"

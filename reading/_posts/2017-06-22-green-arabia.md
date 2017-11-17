@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Green Arabia"
 external_link: "http://www.idlewords.com/2014/08/green_arabia.htm"

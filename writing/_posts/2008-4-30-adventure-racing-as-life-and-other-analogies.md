@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Adventure Racing as Life, and Other Analogies"
 ---

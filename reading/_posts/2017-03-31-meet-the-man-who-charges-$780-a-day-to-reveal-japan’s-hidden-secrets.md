@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Meet the Man Who Charges $780 a Day to Reveal Japan’s Hidden Secrets"
 external_link: "http://nextshark.com/shinji-nohara-tokyo-fixer/"

@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Refactoring Technology"
 layout: main
 ---

@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: Schlep Blindness
 external_link: http://paulgraham.com/schlep.html

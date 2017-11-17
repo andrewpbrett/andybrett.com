@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Do Not, Under Any Circumstances, Start A Startup: Or, What I Learned At Startup School 2011"
 ---

@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Herdsman’s hut"
 filename: "20171116031739.jpg"

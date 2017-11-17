@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Speak Many Languages"
 layout: main
 ---

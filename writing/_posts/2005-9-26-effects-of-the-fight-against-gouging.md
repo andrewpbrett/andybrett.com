@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Effects of the fight against gouging"
 ---

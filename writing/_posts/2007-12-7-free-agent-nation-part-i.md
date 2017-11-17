@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Free Agent Nation, Part I"
 ---

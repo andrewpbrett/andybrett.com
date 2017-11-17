@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Two Paths For AI"
 layout: main
 ---

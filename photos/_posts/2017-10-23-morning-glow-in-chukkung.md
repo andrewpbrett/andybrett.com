@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Morning glow in Chukkung"
 filename: "20171116024112.jpg"

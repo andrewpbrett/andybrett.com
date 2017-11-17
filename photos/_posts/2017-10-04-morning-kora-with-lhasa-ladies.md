@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Morning kora with Lhasa ladies"
 filename: "20171116025412.jpg"

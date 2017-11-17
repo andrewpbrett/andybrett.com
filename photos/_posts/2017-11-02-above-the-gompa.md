@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Above the gompa"
 filename: "20171116032005.jpg"

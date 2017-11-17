@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Made From Scratch"
 layout: main
 ---

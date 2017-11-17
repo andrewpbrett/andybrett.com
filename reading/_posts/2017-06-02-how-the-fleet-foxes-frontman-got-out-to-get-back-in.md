@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "How the Fleet Foxes Frontman Got Out to Get Back In"
 external_link: "https://www.nytimes.com/2017/05/31/arts/music/fleet-foxes-robin-pecknold-crack-up-interview.html"

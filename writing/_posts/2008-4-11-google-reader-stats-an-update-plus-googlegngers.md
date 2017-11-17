@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Google Reader Stats, an Update; Plus: Googlegängers"
 ---

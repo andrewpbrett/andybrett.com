@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Neuralink is horrifying"
 external_link: "http://tomlee.wtf/2017/04/21/neuralink-is-horrifying/"

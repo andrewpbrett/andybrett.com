@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Minimal Mac | TV Is Broken"
 external_link: http://minimalmac.com/post/18189678921/tv-is-broken

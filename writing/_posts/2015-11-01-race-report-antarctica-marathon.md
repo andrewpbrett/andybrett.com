@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Race Report: Antarctica Marathon"
 layout: main
 ---

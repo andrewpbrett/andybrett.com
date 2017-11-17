@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Pocketboard"
 layout: main
 ---

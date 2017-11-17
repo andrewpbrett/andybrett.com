@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Book Review: The Unbearable Lightness of Being"
 ---

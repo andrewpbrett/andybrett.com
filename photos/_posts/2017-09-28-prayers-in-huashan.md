@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Prayers in Huashan"
 filename: "20171116025223.jpg"

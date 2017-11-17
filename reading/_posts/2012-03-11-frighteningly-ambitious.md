@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "Frighteningly Ambitious Startup Ideas"
 external_link: http://www.paulgraham.com/ambitious.html

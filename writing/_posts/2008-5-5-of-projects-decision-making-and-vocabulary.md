@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Of Projects, Decision-Making, and Vocabulary"
 ---

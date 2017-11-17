@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Snowy morning, especially if you slept outside"
 filename: "20171116031314.jpg"

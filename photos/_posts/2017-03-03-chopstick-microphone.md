@@ -1,5 +1,4 @@
 ---
-type: photo
 layout: main
 caption: "Chopstick microphone"
 filename: "20171116024819.jpg"

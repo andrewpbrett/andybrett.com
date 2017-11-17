@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "A report from De Beers’s new diamond mine"
 external_link: "http://www.economist.com/news/international/21717369-production-worlds-most-valuable-gem-may-be-about-peak-report-de-beerss?frsc=dg%7Cc"

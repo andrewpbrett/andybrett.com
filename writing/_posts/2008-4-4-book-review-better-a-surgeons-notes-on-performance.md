@@ -1,5 +1,4 @@
 ---
-type: post
 layout: main
 title: "Book Review: Better: A Surgeon's Notes on Performance"
 ---

@@ -1,5 +1,4 @@
 ---
-type: bookmark
 layout: main
 title: "New York Museums Signal Their Resistance to Trump"
 external_link: "http://www.newyorker.com/culture/cultural-comment/new-york-museums-signal-their-resistance"
