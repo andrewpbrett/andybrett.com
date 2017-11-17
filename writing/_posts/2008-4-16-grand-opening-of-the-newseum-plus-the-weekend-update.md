@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Grand Opening of the Newseum; Plus, the Weekend Update"
 ---
 On Friday I finally broke down and did the tourist thing in DC. Camera in tow

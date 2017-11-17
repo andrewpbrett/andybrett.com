@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "George Voinovich"
 ---
 I am [so](http://news.ft.com/cms/s/434bd5f0-b10f-11d9-9bfc-

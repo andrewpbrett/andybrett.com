@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Essay Contest"
 ---
 Since I could do it without messing around online that much, I entered [this

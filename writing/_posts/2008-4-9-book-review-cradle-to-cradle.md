@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Book Review: Cradle to Cradle"
 ---
 [Cradle to Cradle: Remaking the Way We Make

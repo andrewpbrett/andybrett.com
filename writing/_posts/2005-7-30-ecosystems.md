@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Ecosystems"
 ---
 It appears this blog is an [insignificant microbe](http://www.truthlaidbear.co

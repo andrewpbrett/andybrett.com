@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Crunchy"
 ---
 Citing the Text has made the jump to a [Crunchy Crustacean](http://www.truthla

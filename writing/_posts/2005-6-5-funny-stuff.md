@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Funny Stuff"
 ---
 In today's [LA Times](http://www.latimes.com/news/opinion/la-oe-

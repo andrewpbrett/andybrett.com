@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The perilous politics of parking"
 external_link: "http://www.economist.com/news/leaders/21720281-average-car-moves-just-5-time-improve-cities-focus-other-95-perilous?frsc=dg|c"
 ---

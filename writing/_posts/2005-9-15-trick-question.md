@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Trick Question"
 ---
 So what career gives you the most potential to give back to society?

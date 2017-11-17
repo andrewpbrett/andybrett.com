@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Environmental Economics"
 ---
 [Very important and interesting discussion](http://www.env-

@@ -1,14 +1,13 @@
 ---
 type: post
-layout: main
 title: "Crunchhunch"
 ---
-**TL;DR**: 
+**TL;DR**:
 
 Guess who wrote the TechCrunch post based on the headline with
 [Crunchhunch](http://crunchhunch.com).
 
-**Long version**: 
+**Long version**:
 
 A few weeks ago I was out to drinks with some friends when the topic of
 TechCrunch headlines came up. I asserted that I could guess with "greater than
@@ -25,4 +24,3 @@ additions to what appears after a right/wrong answer.
 
 Just a fun little app. Enjoy. If you're a designer and the site makes you want
 to gouge your eyes out with your photoshop license, get in touch :-)
-

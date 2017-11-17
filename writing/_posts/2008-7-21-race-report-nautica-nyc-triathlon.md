@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Race Report: Nautica NYC Triathlon"
 ---
 Yesterday I raced in the [Nautica NYC

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "From Michael Lewis, a Portrait of the Men Who Shaped ‘Moneyball’"
 external_link: "https://www.nytimes.com/2016/12/03/business/media/from-michael-lewis-a-portrait-of-the-men-who-shaped-moneyball.html"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Monkey wrench of irrationality"
 ---
 One thing that really throws a monkey wrench into my whole new [libertarian

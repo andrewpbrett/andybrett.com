@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Elon Musk Publishes Plans for Colonizing Mars"
 external_link: "https://www.scientificamerican.com/article/elon-musk-publishes-plans-for-colonizing-mars/?WT.mc_id=SA_TW_SPC_NEWS&sf89238010=1"
 ---

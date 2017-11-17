@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "The Trust Fund Facade"
 ---
 After nearly four months of virtually non-stop coverage of the Social Security
@@ -122,4 +121,3 @@ However, regardless of the solution proposed, (Bush's "solution" is in quotes
 above because he himself has admitted that it is budget neutral), both the
 true nature of the "trust fund" and the timeline over which such a solution
 needs to be enacted must be realized.
-

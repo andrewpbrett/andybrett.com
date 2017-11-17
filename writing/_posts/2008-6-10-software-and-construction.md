@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Software and Construction"
 ---
 Matt over at 37 Signals has a recent post on [the difference between a fifty-

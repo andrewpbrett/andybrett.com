@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Amtrak Cuts Service, Hikes Fares"
 ---
 Regular Amtrak commuters received a surprise last week when a number of Acela

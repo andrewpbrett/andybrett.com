@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Of Projects, Decision-Making, and Vocabulary"
 ---
 The sun began to set over the mountains, which had been turned light green by

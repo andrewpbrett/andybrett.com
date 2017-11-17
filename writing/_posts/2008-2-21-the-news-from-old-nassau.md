@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The News From Old Nassau..."
 ---
 ...where [all the children are above

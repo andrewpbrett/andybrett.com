@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Out with the old..."
 ---
 Alas, poor Blogspot. I knew him well. That's right - it's time for bigger and

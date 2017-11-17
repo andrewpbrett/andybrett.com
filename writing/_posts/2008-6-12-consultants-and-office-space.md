@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Consultants and Office Space"
 ---
 My dad bought me a copy of Office Space when I was 17, soon after I got a job

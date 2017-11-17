@@ -1,6 +1,5 @@
 ---
 title: "Made From Scratch"
-layout: main
 ---
 "So what kind of hops did you use when you made your own beer?"
 

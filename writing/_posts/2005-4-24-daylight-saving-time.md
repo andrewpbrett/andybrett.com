@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Daylight Saving Time"
 ---
 The Energy Bill that just passed the House contains an interesting little

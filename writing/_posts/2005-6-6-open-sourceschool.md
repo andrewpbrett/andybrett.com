@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Open Source....School?"
 ---
 An [open source

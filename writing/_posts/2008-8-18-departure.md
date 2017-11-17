@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Departure"
 ---
 Tomorrow I will begin making my way to Blanc-Sablon, Canada, for the 2008

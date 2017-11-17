@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Stephen Colbert"
 ---
 I was watching a rerun of the Colbert Report and caught a segment on his

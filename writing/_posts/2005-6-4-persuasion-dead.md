@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Persuasion, Dead?"
 ---
 Matt Miller [proposes just

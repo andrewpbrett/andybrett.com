@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Race Report: 101st Annual Dipsea"
 ---
 **Time: 1:06:03   
@@ -186,4 +185,3 @@ begun the countdown to June 10, 2012. Between the [marathon
 it's been about two months that I've had some event upcoming on the race
 calendar, so I'll most likely be calling that a wrap for the season and taking
 some recovery time.
-

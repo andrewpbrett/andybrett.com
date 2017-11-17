@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Too little, too late (I think)"
 ---
 Microsoft [is coming

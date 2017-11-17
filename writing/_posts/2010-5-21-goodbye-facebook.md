@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Goodbye, Facebook"
 ---
 We're done here. Five years after signing up for an account, I am quitting The
@@ -12,7 +11,7 @@ five years ago, that was not the intention of the site's creators, but today
 it very clearly is. The service has changed, as have the costs and benefits
 associated with participating, and that calculus no longer makes sense for me.
 
-  
+
 That constant change has been perhaps the strongest reason for deleting my
 account. I don't mean the much-aligned aesthetic changes, but rather the
 [changes](http://www.eff.org/deeplinks/2010/04/facebook-timeline) to what it
@@ -23,7 +22,7 @@ clearly aimed at that end. This is certainly their prerogative, but it's no
 longer something I wish to be a part of. The changes are not making the world
 or the web a better place.
 
-  
+
 Yesterday at Google I/O, Dewitt Clinton said he would far rather have a
 federated network of a million tiny social networks rather than one with a
 billion users. Others on the
@@ -36,7 +35,7 @@ Given that these are Google employees talking, he statement obviously has to
 be taken with a grain of salt. However, the argument is still strong and I do
 see this happening in the next five years.
 
-  
+
 Later tonight I'll be deleting - not deactivating - my Facebook account.
 There's a bit of irony, of course, in that I'm posting this one last item to
 Facebook, but it seemed like a good way to maybe encourage some others to take
@@ -46,4 +45,3 @@ kept me from doing this sooner. Luckily Facebook's Graph API makes it very
 easy to grab everything that you've put on the site in a structured way, and
 I'll be doing this shortly. I'm not sure exactly what I'll do with it yet, but
 I do know that I want it to live some place where I'm in control.
-

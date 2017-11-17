@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Front sprawl"
 ---
 What could be even more appalling to James Howard Kunstler and company than

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Filibuster, of course"
 ---
 The Frist Filibuster Protest can be seen on HardBall tonight on MSNBC for

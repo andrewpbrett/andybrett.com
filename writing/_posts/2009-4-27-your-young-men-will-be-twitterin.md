@@ -1,13 +1,12 @@
 ---
 type: post
-layout: main
 title: "The Music Man: Your young men will be Twitterin'"
 ---
 _With sincerest apologies to Meredith Wilson_
 
-  
-  
-  
+
+
+
 Well, either you're closing your eyes
 
 To a situation you do not wish to acknowledge,
@@ -16,7 +15,7 @@ Or you are not aware of the caliber of disaster
 
 Indicated by the presence of the social web in your community.
 
-  
+
 Well, you got trouble, my friend, right here,
 
 I say, trouble right here in River City.
@@ -41,7 +40,7 @@ An iron-clad link from yourself
 
 To a Fortune 500 boss, in two connections or less?
 
-  
+
 But just as I say,
 
 It takes judgement, brains, and maturity,
@@ -62,7 +61,7 @@ I say, first, [informational texts from a plant](http://twitter.com/pothos),
 
 Then [tweets from a baby](http://portfolio.menscher.com/itp/kickbee/)!
 
-  
+
 And the next thing ya know,
 
 Your son is bloggin' for money on a MacBook Pro.
@@ -91,7 +90,7 @@ Between a gentlemen and a bum,
 With a capital "B" and that rhymes with "C" and that stands for
 [Cuil](http://www.cuil.com)!
 
-  
+
 And all week long your River City
 
 Youth'll be twitterin' away,
@@ -125,7 +124,7 @@ Right here in River City.
 Trouble with a capital "T" and that rhymes with "C" and that stands for
 [Cuil](http://www.cuil.com)!
 
-  
+
 Now, I know all you folks are the right kind of parents.
 
 I'm gonna be perfectly frank.
@@ -154,7 +153,7 @@ Mass-participation!
 
 Friends, the social brain is the devil's playground!
 
-  
+
 Chorus:
 
 Trouble, oh we got trouble,
@@ -174,7 +173,7 @@ Gotta figure out a way to keep the young ones offline after school!
 
 Trouble, trouble, trouble, trouble, trouble...
 
-  
+
 Harold:
 
 Mothers of River City!
@@ -201,7 +200,7 @@ And "icanhascheezburger?"
 
 Well, if so my friends...
 
-  
+
 You got trouble,
 
 Right here in River City!
@@ -230,4 +229,3 @@ Gotta rhyme it with "C"!
 And that stands for [Cuil](http://www.cuil.com)!
 
 That stands for [Cuil](http://www.cuil.com)!
-

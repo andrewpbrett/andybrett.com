@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Five More Days"
 ---
 I'd like to echo [Mikhail's statement](http://mikecapone.blogspot.com/2005/04

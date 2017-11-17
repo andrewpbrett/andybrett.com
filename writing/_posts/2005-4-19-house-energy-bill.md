@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "House Energy Bill"
 ---
 The House just passed an [Energy

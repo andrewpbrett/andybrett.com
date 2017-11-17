@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Road privatization"
 ---
 The [highway bill](http://www.washingtonpost.com/wp-

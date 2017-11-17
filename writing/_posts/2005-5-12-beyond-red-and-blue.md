@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Beyond Red and Blue"
 ---
 [This post](http://www.mydd.com/story/2005/5/12/133854/685) at MyDD is really

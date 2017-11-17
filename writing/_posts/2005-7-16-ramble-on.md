@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Ramble on..."
 ---
 Okay, so I know that this is the [second

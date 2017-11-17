@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "How To Send Gmail Without Checking Gmail"
 ---
 Maintaining focus while working independently can be a daunting task. I'm
@@ -25,4 +24,3 @@ easiest thing is to just bookmark this link:
 il/?view=cm&fs=1&tf=1)
 
 Easy enough. Hopefully this saves someone some time.
-

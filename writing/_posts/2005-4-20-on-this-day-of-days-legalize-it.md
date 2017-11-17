@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "On this day of days: Legalize it"
 ---
 I don't think it's a coincidence that

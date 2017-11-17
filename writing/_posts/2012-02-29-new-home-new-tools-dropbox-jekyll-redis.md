@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "New Home, New Tools: Dropbox, Jekyll, Redis"
 ---
 Updated Sunday, March 11, 2012

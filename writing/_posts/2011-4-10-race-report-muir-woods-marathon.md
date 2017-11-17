@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Race Report: Muir Woods Marathon"
 ---
 **Result: 8th place. 3:10:48.**
@@ -130,7 +129,7 @@ elevation](http://www.boston.com/sports/marathon/course/map/)! What kind of a
 race is that?].
 
 After recovering a bit, the Sand Dollar restaurant was offering a free beer
-for all runners. I'm noticing this as a trend - [great races have beer at the 
+for all runners. I'm noticing this as a trend - [great races have beer at the
 finish](https://picasaweb.google.com/andybrett/Even_more_Coast_Raid#5267122563
 367200914).
 
@@ -148,4 +147,3 @@ trail running, however - it's just flat out fun (pun intended).
 I have a recovery week planned this week before getting ramped back up again
 for Bay to Breakers and (hopefully) the Dipsea in June. The good news is that
 the hills on those courses are looking downright flat by comparison.
-

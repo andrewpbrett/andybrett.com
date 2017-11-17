@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "New York City"
 ---
 [This](http://www.nytimes.com/2005/06/22/nyregion/22popsicle.html?ex=127709280

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Testing out a bit of a hack...."
 ---
 [![](http://photos1.blogger.com/img/269/7553/320/andy-

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Meaning of Liberal"
 ---
 I like [Keith Thompson](http://sfgate.com/cgi-

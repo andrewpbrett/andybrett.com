@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Book Review: The Unbearable Lightness of Being"
 ---
 **Reposted from Goodreads because I don't think that's searchable**  

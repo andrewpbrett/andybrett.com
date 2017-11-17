@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "RimuHosting"
 ---
 This is a blatant plug, but they have earned it.

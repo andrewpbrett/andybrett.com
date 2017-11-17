@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "I Heart Huckabees"
 ---
 "Yes, I care about the marsh and the woods. Albert was not gonna save them his

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Broadway Plaxico"
 ---
 Super Bowl XLII was without a doubt the greatest I have seen. Two fourth-

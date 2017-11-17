@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Peter Singer and Poverty"
 ---
 Repost of some of my thoughts in response to

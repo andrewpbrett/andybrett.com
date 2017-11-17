@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Global Warming"
 ---
 I'm posting this now to make sure I remember to write about it later.

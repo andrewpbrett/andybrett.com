@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Economist"
 ---
 The Economist ran as their cover story this week an opinion column called

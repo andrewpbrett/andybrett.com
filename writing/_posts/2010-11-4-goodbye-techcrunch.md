@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Reclaiming Fragmented Disk Space; Or, Thoughts Upon Leaving TechCrunch"
 ---
 As the title indicates, the following is an attempt to do a bit of reflection
@@ -191,4 +190,3 @@ commenters actually worked there (though some are more accurate than others)
 
 Thanks to [Paul Carr](http://www.paulcarr.com) and [Ben
 Schaechter](http://twitter.com/bensign) for reading drafts of this.
-

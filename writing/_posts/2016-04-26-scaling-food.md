@@ -1,6 +1,5 @@
 ---
 title: "Scaling Food"
-layout: main
 ---
 > If you were dropped at a random point in America today, nearly all the food around you would be bad for you. [...] The only people who eat what humans were actually designed to eat are a few Birkenstock-wearing weirdos in Berkeley. [...] If people have to choose between something that's cheap, heavily marketed, and appealing in the short term, and something that's expensive, obscure, and appealing in the long term, which do you think most will choose?
 

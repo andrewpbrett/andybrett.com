@@ -1,6 +1,6 @@
 desc 'create new post or bookmark. args: type (post, bookmark), title, slug'
 # rake new type=(bookmark|post) future=0 title="New post title goes here" slug="slug-override-title"
-task :new do  
+task :new do
   type = ENV["type"] || "bookmark"
   title = ENV["title"] || "New Title"
   external_link = ENV["link"] || "LINK"
@@ -11,10 +11,9 @@ task :new do
 
   path = File.join("_posts", filename)
   post = <<-HTML
---- 
+---
 type: TYPE
 title: "TITLE"
-layout: main
 external_link: LINK
 ---
 

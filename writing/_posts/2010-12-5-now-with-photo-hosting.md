@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Now With Photo Hosting!"
 ---
 As I [mentioned](http://andybrett.com/where-this-is-going) a while ago, I

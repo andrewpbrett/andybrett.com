@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "I saw Paula Radcliffe"
 ---
 ...at the [New York City

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Ecomagination, Filibuster"
 ---
 GE launched a series of ads touting what it calls "ecomagination" two days

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "One More Thing"
 external_link: "https://www.wired.com/2017/05/apple-park-new-silicon-valley-campus"
 ---

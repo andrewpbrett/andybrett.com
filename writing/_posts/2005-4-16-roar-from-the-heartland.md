@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Roar From the Heartland?"
 ---
 The cuts to agricultural subsidies that were a part of the Bush budget [don't

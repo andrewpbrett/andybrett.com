@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Marketing, Microsoft, and ... Buddhism"
 ---
 Let's say you suddenly became completely isolated from the rest of the world,

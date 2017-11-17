@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Frist Filibuster"
 ---
 Over the past 54 hours, there has been a filibuster going on at the Frist

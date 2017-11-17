@@ -1,6 +1,5 @@
 ---
 title: "Pocketboard"
-layout: main
 ---
 I love bookmarking and reading things with [Pocket](https://getpocket.com). I also like to have a permanent record of the things I quote and recommend on it. The Pocket API doesn't have an endpoint for Recommended Items, so I wrote a small ruby script to check your public user profile on Pocket and extract the title, link, the quote you pulled, and any additional comment you added.
 

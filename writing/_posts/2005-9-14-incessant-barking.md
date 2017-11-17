@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Incessant barking"
 ---
 Feeling a bit like [this dog](http://www.cartoonbank.com/product_details.asp?m

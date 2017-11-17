@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Everyone's a little bit....libertarian"
 ---
 _But after Katrina, the trend reversed and the skeptics became a majority,

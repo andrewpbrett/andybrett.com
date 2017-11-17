@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Group Think and the Buddha"
 ---
 One thing I didn't really mention about the Death of Environmentalism essay

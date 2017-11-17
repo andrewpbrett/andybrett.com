@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The now-infamous hostage situation"
 ---
 [This](http://news.bbc.co.uk/2/hi/middle_east/4455657.stm) situation has been

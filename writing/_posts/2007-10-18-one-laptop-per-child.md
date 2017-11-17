@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "One Laptop Per Child"
 ---
 The One Laptop Per Child program has the mission of bringing, you guessed it,

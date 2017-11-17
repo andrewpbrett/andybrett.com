@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Google Reader Stats"
 ---
 Inspired by [Atul Gawande](http://www.gawande.com/)'s advice to "measure

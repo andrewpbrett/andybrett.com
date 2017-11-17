@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Frigid Infliction 2008"
 ---
 Long time no blog. The cause: a client deadline at the end of last week

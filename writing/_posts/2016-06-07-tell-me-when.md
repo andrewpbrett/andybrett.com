@@ -1,6 +1,5 @@
 ---
 title: "Tell Me When"
-layout: main
 ---
 Notifications are [destroying][destroying] our [brains][brains]. That sounds hyperbolic, but there’s a real chance that it will become this era's equivalent of advertising cigarettes to children. In hindsight it will appear obviously bad, but in the moment it seems normal.
 

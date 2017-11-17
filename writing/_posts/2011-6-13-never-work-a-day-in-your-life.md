@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Never Work A Day In Your Life"
 ---
 Things are really starting to pick up at [Cake Health](http://cakehealth.com).
@@ -38,4 +37,3 @@ that day.
 Lastly, as a side note (I swear this wasn't the original purpose of this
 post), [we're hiring](http://cakehealth.com/jobs) - let me know if you would
 also like to never work a day in your life.
-

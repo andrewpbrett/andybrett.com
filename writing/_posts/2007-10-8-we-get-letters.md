@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "We get letters..."
 ---
 Blair writes:

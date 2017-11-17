@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Adventure Racing as Life, and Other Analogies"
 ---
 Starting with last year's SAVAGE I've now done three adventure races in the

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Citing [our] text"
 ---
 I do believe that this will be the first time in the history of this blog (if

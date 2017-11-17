@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Dissident"
 ---
 "[The Dissident](http://www.the-dissident.com/)" made its campus debut today,

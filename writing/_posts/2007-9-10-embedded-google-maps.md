@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Embedded Google Maps"
 ---
 Below is my first attempt at embedding a Google Map from MyMaps into a

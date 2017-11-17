@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Completely Different, Part II"
 ---
 ...the interesting cut.

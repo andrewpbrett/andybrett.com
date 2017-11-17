@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Great Communicator"
 external_link: "https://theringer.com/2017-mlb-preview-cleveland-indians-terry-francona-6cbdea235e14"
 ---

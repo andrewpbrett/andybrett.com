@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Raw [Normalized] Data Now: Tim Berners-Lee and the Future of the Web"
 ---
 Tim Berners-Lee, inventor of the internet, [recently spoke](http://www.ted.com

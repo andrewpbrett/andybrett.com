@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Crossing The Streams"
 ---
 For this week's mini-hackathon I decided to do a bit of work on the landing
@@ -21,4 +20,3 @@ implementing after that, hence the concentration on Monday afternoons. Kind of
 neat.
 
 ![](http://dl.dropbox.com/u/256663/andybrett.com/Picture%2013.png?1295250088)
-

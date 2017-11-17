@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Friend, not foe"
 ---
 Pascal Lamy, Director General of the WTO, [says

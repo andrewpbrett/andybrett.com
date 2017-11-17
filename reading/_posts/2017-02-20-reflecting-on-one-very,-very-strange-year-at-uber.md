@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Reflecting on one very, very strange year at Uber"
 external_link: "https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber"
 ---

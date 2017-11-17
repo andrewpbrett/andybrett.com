@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Drinking From the Firehose, or, Completely Different III"
 ---
 I had a meeting about the plans for this summer in Baltimore, which are

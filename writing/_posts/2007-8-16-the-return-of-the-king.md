@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Return of the King"
 ---
 Well since it appears that:

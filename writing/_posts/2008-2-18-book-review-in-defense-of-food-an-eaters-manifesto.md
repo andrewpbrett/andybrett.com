@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Book Review: In Defense of Food: An Eater's Manifesto"
 ---
 Michael Pollan summarizes his [latest

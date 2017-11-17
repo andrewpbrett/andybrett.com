@@ -1,6 +1,5 @@
 ---
 title: "L'expérience Mentale d'iPhone"
-layout: main
 ---
 Tim Urban de le site web "Wait But Why" [demande un question intéressante][original] (traduire):
 

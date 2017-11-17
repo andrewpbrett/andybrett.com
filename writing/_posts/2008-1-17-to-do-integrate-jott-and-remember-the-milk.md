@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "To Do: Integrate Jott and Remember the Milk"
 ---
 I've been using [Remember the Milk](http://www.rememberthemilk.com) for a

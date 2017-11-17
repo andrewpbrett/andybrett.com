@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "I just realized that..."
 ---
 I just realized that you can also integrate Jott with Blogger, another Google

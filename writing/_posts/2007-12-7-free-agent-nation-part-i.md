@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Free Agent Nation, Part I"
 ---
 I am now fully 11 weeks into my first project. I think it would be accurate to

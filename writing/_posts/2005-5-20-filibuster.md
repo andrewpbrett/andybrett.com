@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Filibuster"
 ---
 The [filibuster](http://www.filibusterfrist.com) has a [new and improved

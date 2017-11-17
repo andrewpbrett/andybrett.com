@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Why Facts Don’t Change Our Minds"
 external_link: "http://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds"
 ---

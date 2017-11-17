@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Coming Shift"
 ---
 [This article](http://www.washingtonpost.com/wp-

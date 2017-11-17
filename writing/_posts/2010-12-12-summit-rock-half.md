@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Race Report: Summit Rock Half Marathon"
 ---
 Or: It's actually sunny today, you just have to get up to about 3,000 feet.
@@ -85,4 +84,3 @@ A big thanks to Brazen Racing for putting on a great event. They did a superb
 job allocating resources - a minimal amount of people on a clearly marked
 course, and massive amounts of food afterwards. After doing this one I have a
 renewed desire to do the Dipsea next year - here's hoping I get a slot.
-

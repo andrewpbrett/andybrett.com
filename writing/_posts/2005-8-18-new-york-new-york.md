@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "New York, New York"
 ---
 [More evidence](http://www.nytimes.com/2005/08/18/opinion/l18krugman.html)

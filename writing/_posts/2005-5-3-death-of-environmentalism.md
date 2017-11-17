@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Death of Environmentalism"
 ---
 In lieu of the "liveblog" that obviously didn't take place yesterday and which

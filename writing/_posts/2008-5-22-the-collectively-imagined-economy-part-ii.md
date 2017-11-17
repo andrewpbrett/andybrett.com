@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Collectively Imagined Economy, Part II"
 ---
 "The way I see it is that my money represents an enormous number of claim

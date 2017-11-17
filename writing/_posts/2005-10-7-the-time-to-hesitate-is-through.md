@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The time to hesitate is through...."
 ---
 No time to wallow in the..........Miers.

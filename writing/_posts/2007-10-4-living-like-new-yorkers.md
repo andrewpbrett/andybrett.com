@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Living like New Yorkers"
 ---
 The previous post promised an update, which is obviously sorely overdue....

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Super Tuesday"
 ---
 Since I didn't register in NY in time to vote on Super Tuesday, I'll vote

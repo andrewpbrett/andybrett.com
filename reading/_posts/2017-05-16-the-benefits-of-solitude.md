@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Benefits of Solitude"
 external_link: "https://thewalrus.ca/the-benefits-of-solitude/"
 ---

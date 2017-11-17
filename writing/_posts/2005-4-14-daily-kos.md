@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Daily Kos"
 ---
 Most recent post from the old site:

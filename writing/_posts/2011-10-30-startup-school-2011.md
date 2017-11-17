@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Do Not, Under Any Circumstances, Start A Startup: Or, What I Learned At Startup School 2011"
 ---
 There were actually two distinct themes at this year's edition of Startup

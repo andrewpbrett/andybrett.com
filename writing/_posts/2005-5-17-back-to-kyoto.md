@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Back to Kyoto"
 ---
 [134 US

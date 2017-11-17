@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Understanding Pac-Man Ghost Behavior"
 external_link: "http://gameinternals.com/post/2072558330/understanding-pac-man-ghost-behavior"
 ---

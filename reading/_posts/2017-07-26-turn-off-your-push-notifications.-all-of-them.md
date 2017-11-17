@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Turn Off Your Push Notifications. All of Them"
 external_link: "https://www.wired.com/story/turn-off-your-push-notifications/"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "To the states!"
 ---
 For all the hubbub about the Supreme Court's ruling in _Kelo v. City of New

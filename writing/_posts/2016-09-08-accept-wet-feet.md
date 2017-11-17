@@ -1,6 +1,5 @@
 ---
 title: "Accept Wet Feet"
-layout: main
 ---
 Denali National Park in Alaska has no trails, just one main road that takes about four hours to drive end to end. The only way to travel said road is on the park bus, and it can take much longer than four hours if you run into wildlife along the way, as the bus drivers seem to be selected for their ability to match their passengers' childlike wonder upon their first moose sighting, even though after 30 years driving that road they've probably seen, and possibly adopted, several moose. Yet they're happy to stop for as long as people seem interested.
 

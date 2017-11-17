@@ -1,6 +1,5 @@
 ---
 title: "Doing What You Want"
-layout: main
 ---
 
 I use the word "want" differently than most other people. Many people use it aspirationally, referring to something they would like to happen or something they wish would happen.

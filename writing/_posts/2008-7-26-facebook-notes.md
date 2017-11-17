@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Facebook Notes"
 ---
 I've decided to try out adding this blog's feed to my Facebook Notes

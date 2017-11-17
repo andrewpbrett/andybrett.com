@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "April Fool's"
 ---
 I'll be honest. The very first thing I did in front of my laptop today was to

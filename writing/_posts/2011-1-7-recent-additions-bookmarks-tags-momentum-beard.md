@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Recent Additions: Bookmarks, Tags, Momentum, and a Beard"
 ---
 I recently implemented three new features on this site that I'm pretty happy
@@ -44,4 +43,3 @@ the same weekend that I last had a full, clean shave:
 ![](http://dl.dropbox.com/u/256663/andybrett.com/fear_the_beard.jpg)
 
 It was a coincidence, really.
-

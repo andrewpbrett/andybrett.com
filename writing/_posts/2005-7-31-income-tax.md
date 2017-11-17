@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Income tax"
 ---
 My two principles of tax reform:

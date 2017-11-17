@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Effects of the fight against gouging"
 ---
 _He wound up fifth in line at a Citgo station pump several miles away and

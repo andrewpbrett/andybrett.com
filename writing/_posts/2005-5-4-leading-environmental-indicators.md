@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Leading Environmental Indicators"
 ---
 [Filibustering](http://www.filibusterfrist.com) went well this morning; the

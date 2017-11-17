@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Reasoned Right"
 ---
 I'm now a contributor at the newly minted blog [The Reasoned

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Back to school"
 ---
 So last post was on...Sunday, ooh, not good. Been a fun couple of days, moving

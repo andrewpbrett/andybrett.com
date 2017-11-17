@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "TV Turnoff Week"
 ---
 While I suppose that this is skipping Earth Day/Earth Week, I found an

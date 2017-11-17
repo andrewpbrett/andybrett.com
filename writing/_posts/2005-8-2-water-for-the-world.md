@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Water for the world"
 ---
 Tom Standage, technology editor of _[The

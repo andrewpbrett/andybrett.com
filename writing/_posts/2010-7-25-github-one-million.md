@@ -1,9 +1,8 @@
 ---
 type: post
-layout: main
 title: "GitHub Hits One Million Hosted Repositories"
 ---
-**_This post was originally published [on TechCrunch](http://techcrunch.com/2010/07/24/github-one-million/)_** 
+**_This post was originally published [on TechCrunch](http://techcrunch.com/2010/07/24/github-one-million/)_**
 
 [GitHub](http://github.com), the source code hosting and collaboration
 service, has hit a major milestone tonight: the site is now hosting one
@@ -50,4 +49,3 @@ their gems and other code, using GitHub to do so. Ruby and JavaScript are the
 [most popular languages](http://github.com/languages) on GitHub, with 19 and
 17 percent of the hosted code respectively, but there are currently projects
 in over 50 languages on the service: everything from Visual Basic to Go.
-

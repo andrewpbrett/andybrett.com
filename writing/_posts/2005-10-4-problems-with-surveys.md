@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Problems with surveys"
 ---
 The _New York Times_ [comments](http://www.nytimes.com/2005/10/04/science/04ha

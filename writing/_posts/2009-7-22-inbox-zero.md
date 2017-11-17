@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Inbox: Zero. Google Reader: not so much"
 ---
 I'm a big advocate of the "Inbox Zero" philosophy of email management. I don't

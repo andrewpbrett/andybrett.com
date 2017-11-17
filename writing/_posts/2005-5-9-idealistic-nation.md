@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Idealistic Nation"
 ---
 Continuing the streak of posts which require very little work on my part, my

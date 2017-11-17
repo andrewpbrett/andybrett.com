@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Why Japan’s Rail Workers Can’t Stop Pointing at Things"
 external_link: "http://www.atlasobscura.com/articles/pointing-and-calling-japan-trains"
 ---

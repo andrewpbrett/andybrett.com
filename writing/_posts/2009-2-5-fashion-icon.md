@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Fashion Icon"
 ---
 Andy Brett, fashion visionary. A WSJ

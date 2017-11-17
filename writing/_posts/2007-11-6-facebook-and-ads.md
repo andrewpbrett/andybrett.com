@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Facebook and Ads"
 ---
 >Facebook now will give advertisers the ability to create their own profile pages on its system that will let users identify themselves as fans of a product. So each user's news feed will contain items like "Bobby Smith is now a fan of Toyota Prius" <B>or whatever.</B>

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Test one two..."
 ---
 [![](http://photos1.blogger.com/img/269/7553/320/Bono1.jpg)](http://photos1.bl

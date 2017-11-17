@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Impromptu Filibustering"
 ---
 So I am now blogging from the filibuster tent at the [Frist Center Filibuster

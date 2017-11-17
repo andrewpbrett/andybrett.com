@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "UI and Zero Gravity Toilets"
 ---
 As I'm building out the user interface for [Cake
@@ -31,4 +30,3 @@ flawed design.
 Moral of the story: if you start to see instructions on your interface, stop.
 Pretend that understanding it is the only thing preventing your users from
 relieving themselves in zero gravity.
-

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Santorum and Stewart"
 ---
 I watched Jon Stewart [interview](http://www.comedycentral.com/shows/the_daily

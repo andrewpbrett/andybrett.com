@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Construction"
 ---
 Well that was surprisingly easy...excuse the dust/lack of archives as we get

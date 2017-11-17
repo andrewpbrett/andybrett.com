@@ -1,6 +1,5 @@
 ---
 title: "Beyond 99 Things"
-layout: main
 ---
 
 Two years ago I [made a list][list] of the 99 things that I owned. The list no longer matches reality, and my philosophy has diverged from the philosophy espoused by the list.

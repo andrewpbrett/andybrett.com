@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Light sweet crude reading"
 ---
 Peak oil made what might be described as its MSM debut today, and in dramatic

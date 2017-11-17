@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Dr. Allan Johnson"
 ---
 I was at a talk/discussion with Dr. Allan Johnson last night, author of

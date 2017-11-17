@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Know Thyself, Without Instrumentation"
 ---
 Last Saturday I ran 75 kilometers (46.6 miles) at an elevation of 6,500 feet, about 40 miles north of the equator. When I finished after 8 hours, the temperature was a balmy 92 degrees Fahrenheit (32 C). I wiped my hand across my forehead and could see large salt crystals on my fingertips.

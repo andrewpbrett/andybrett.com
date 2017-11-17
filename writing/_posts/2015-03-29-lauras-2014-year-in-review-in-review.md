@@ -1,6 +1,5 @@
 ---
 title: "Laura's 2014 Year In Review, In Review"
-layout: main
 external_link: LINK
 ---
 

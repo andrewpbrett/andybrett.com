@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "A New Learning Tool (Plus: How I Work Best)"
 ---
 [LiveMocha](http://www.livemocha.com/) might just be the ticket to push me

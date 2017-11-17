@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Escape to another world"
 external_link: "https://www.1843magazine.com/features/escape-to-another-world"
 ---

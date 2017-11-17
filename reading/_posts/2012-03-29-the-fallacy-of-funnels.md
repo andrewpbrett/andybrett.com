@@ -1,6 +1,5 @@
 --- 
 title: "The Fallacy of Funnels"
-layout: main
 external_link: http://blog.intercom.io/the-fallacy-of-funnels/
 ---
 

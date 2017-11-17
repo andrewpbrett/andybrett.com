@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Eating Clubs"
 ---
 With Campus Club closing, "socioeconomics" are again a topic of discussion

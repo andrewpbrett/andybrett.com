@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Startup School Recap"
 ---
 Yesterday I spent the day at [Startup School](http://startupschool.org), an
@@ -58,13 +57,13 @@ appealing to founders (awesome).
 
 Other highlights:
 
-- "It might seem like these guys are just stupid, but, well, these guys aren't stupid, so I thought more about this". I would do well to repeat this to myself whenever I come to that conclusion about someone or something. 
+- "It might seem like these guys are just stupid, but, well, these guys aren't stupid, so I thought more about this". I would do well to repeat this to myself whenever I come to that conclusion about someone or something.
 
-- We may see something with VC's similar to what we're seeing in journalism, where your personal brand is what matters most. I think this is very much already here. 
+- We may see something with VC's similar to what we're seeing in journalism, where your personal brand is what matters most. I think this is very much already here.
 
-- Funding rounds are no longer all or nothing. You know exactly where you are at any point, with no chance of something big falling apart at the last second (PG related some horror stories of this happening frequently in the past). This reminds me of the difference between so-called "agile" software development and more traditional, waterfall approaches. 
+- Funding rounds are no longer all or nothing. You know exactly where you are at any point, with no chance of something big falling apart at the last second (PG related some horror stories of this happening frequently in the past). This reminds me of the difference between so-called "agile" software development and more traditional, waterfall approaches.
 
-- The question of board seats/control came up here, but I thought Ron Conway addressed it even better later when he said he had "accomplished 10 times more in a 10 minute meeting just now with Dalton than I would have over the last 4 board meetings. Board seats are a waste of time." 
+- The question of board seats/control came up here, but I thought Ron Conway addressed it even better later when he said he had "accomplished 10 times more in a 10 minute meeting just now with Dalton than I would have over the last 4 board meetings. Board seats are a waste of time."
 
 ### No Permission Necessary
 
@@ -96,15 +95,15 @@ actually pretty diplomatic in comparison to some of Ron Conway's remarks),
 Mark Zuckerberg took off zigzagging through a wide range of topics. Some
 highlights:
 
-- Regarding Hollywood's need to create Facebook's fictional raison d'être (a girl dumping him): "some people just can't wrap their head around building something just for the sake of building something cool." 
+- Regarding Hollywood's need to create Facebook's fictional raison d'être (a girl dumping him): "some people just can't wrap their head around building something just for the sake of building something cool."
 
-- Right now Facebook is really just looking to break even. More revenue means more spending. Why turn a profit? Right now they want to just plow any revenue right back into the company. 
+- Right now Facebook is really just looking to break even. More revenue means more spending. Why turn a profit? Right now they want to just plow any revenue right back into the company.
 
-- The first summer he came to Silicon Valley was just to "hang out" - there was no master plan. This reminded me of something that Reid Hoffman mentioned in his talk: that physically being in the Valley shows you how fast you should be moving. It's very unsurprising that once they were here, they never went back. I think Mark recognizes this - he noted that the Valley is like "instant startup mix" since everything a startup needs is readily available. One attendee quipped: "[Just add Zuck](http://twitter.com/#!/carterkev/status/27585384055)." 
+- The first summer he came to Silicon Valley was just to "hang out" - there was no master plan. This reminded me of something that Reid Hoffman mentioned in his talk: that physically being in the Valley shows you how fast you should be moving. It's very unsurprising that once they were here, they never went back. I think Mark recognizes this - he noted that the Valley is like "instant startup mix" since everything a startup needs is readily available. One attendee quipped: "[Just add Zuck](http://twitter.com/#!/carterkev/status/27585384055)."
 
-- Coming soon for Facebook: Build once, experience anywhere. Social applications for all platforms. 
+- Coming soon for Facebook: Build once, experience anywhere. Social applications for all platforms.
 
-- Facebook as the McKinsey of entrepreneurship. Similar to McKinsey's program where you come to the company for two years and then go on to do incredible things elsewhere because of what you learn in those two years, you can come to Facebook and learn a ton about entrepreneurship and then go on to apply those skills. Exhibit A: Adam D'Angelo, former CTO of Facebook who founded Quora. 
+- Facebook as the McKinsey of entrepreneurship. Similar to McKinsey's program where you come to the company for two years and then go on to do incredible things elsewhere because of what you learn in those two years, you can come to Facebook and learn a ton about entrepreneurship and then go on to apply those skills. Exhibit A: Adam D'Angelo, former CTO of Facebook who founded Quora.
 
 ### Birds of a Feather
 
@@ -117,4 +116,3 @@ to a group of strangers, introducing themselves, and talking candidly about
 their ideas. If Y Combinator did nothing else but create this extraordinary
 environment once a year, that alone would be a contribution that outweighed
 many of the better known entities in the startup ecosystem.
-

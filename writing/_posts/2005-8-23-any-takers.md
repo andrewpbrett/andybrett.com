@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Any takers?"
 ---
 "I know next to nothing about oil production [in Saudi Arabia] or anywhere

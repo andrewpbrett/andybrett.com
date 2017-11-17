@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "James Lee Witt"
 ---
 I like [this guy][1].

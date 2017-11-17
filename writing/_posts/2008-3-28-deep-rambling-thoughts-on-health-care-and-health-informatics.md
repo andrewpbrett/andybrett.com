@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Deep (Rambling) Thoughts on Health Care and Health Informatics"
 ---
 Lately I've been thinking a lot about health care and health insurance,

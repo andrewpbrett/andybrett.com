@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "J'apprends le français"
 ---
 J'apprends français avec mon iPod tut le jour. J'emploie un podcast pour

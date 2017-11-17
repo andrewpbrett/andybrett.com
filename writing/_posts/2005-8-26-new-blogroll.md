@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "New Blogroll"
 ---
 New blogroll/newsroll is up. CNN got the boot after this:

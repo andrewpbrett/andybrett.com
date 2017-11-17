@@ -1,6 +1,5 @@
 ---
 title: "Speak Many Languages"
-layout: main
 ---
 Recently I've been in a lot of situations that required reverting to "traveler's English". There are two different aspects to traveler's English: speaking it and interpreting it.
 

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Happy Tax Day!"
 ---
 Happy Tax Day! In light of the occasion, I thought I'd repost something from

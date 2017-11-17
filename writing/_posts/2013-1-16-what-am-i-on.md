@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "What Am I On?"
 ---
 Lance Armstrong taped an interview Tuesday to admit that he used banned substances when he won his 7 Tour de France titles in 1999 through 2005. In 2001 he [taped a Nike commercial](https://www.youtube.com/watch?v=fxnqHvEbGnc) with the voiceover:

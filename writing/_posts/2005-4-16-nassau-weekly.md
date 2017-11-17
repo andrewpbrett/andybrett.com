@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Nassau Weekly"
 ---
 Usually I just read the Verbatim and maybe look at some of Arthur's pictures,

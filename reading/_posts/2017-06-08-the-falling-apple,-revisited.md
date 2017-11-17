@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Falling Apple, Revisited"
 external_link: "https://500ish.com/the-falling-apple-revisited-19b1697346ad"
 ---

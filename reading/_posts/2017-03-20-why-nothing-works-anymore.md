@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Why Nothing Works Anymore"
 external_link: "https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/"
 ---

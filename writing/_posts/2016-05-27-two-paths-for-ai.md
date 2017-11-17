@@ -1,6 +1,5 @@
 ---
 title: "Two Paths For AI"
-layout: main
 ---
 People are [famously][dancing pigs] willing to choose dancing pigs over digital security. It's becoming apparent that many are also willing to choose convenience over their own autonomy. Google announced [Allo][allo] last week, a messaging app that includes Google's assistant, a bot that will, among other things suggest replies for you, if you let it follow along with the conversation. For example, if you're sent a [graduation photo][graduation], you can choose from "Congratulations!" or "You look great!". The bot presents suggestion "chips" if you're discussing dinner with friends. These chips will, for example, suggest Italian restaurants nearby.
 

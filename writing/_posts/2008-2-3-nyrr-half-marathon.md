@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "NYRR Half-marathon"
 ---
 So, I'm a little late in posting this, but last Sunday I did the New York Road

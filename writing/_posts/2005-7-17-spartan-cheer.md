@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Spartan cheer"
 ---
 I want to be a [Spartan](http://www.nytimes.com/2005/07/17/opinion/17brooks.ht

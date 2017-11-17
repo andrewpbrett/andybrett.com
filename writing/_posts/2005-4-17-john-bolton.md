@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "John Bolton"
 ---
 John Bolton should have to explain [this

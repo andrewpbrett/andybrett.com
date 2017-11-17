@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "I Love Puns"
 ---
 [Why is a university like a sudden flash of

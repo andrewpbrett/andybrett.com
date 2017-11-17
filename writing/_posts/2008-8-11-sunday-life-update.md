@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Sunday Life Update"
 ---
 As Facebook-stalkers will have already noticed, I recently changed projects at

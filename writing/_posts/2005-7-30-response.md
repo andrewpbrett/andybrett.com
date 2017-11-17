@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Response"
 ---
 I got into an interesting if not heated IM conversation the other day about

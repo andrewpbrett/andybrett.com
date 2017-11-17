@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Choking on Growth"
 ---
 For all the [flak](http://www.nytimes.com/2007/08/26/world/asia/26china.html?e

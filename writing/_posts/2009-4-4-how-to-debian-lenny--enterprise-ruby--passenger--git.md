@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "How-To: Debian (Lenny) + Enterprise Ruby + Passenger + Git"
 ---
 _Editor's Note: I am continually amazed by and grateful for the thousands of

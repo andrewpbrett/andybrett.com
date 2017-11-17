@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Screw Kyoto, Go Apollo"
 ---
 "Screw Kyoto, Go [Apollo](http://www.apolloalliance.org/)."

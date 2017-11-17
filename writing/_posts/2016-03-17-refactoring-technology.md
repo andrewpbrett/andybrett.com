@@ -1,6 +1,5 @@
 ---
 title: "Refactoring Technology"
-layout: main
 ---
 Anyone can walk into a Starbucks and pay $4 in exchange for a beverage made with ingredients, materials, and equipment sourced from a more expansive supply chain than any king or nobleman living before 1800 could have dreamed about. Why? Because people have invested in infrastructure based on the assumption that it would be profitable to do so. Now that this infrastructure exists, the marginal costs of manufacturing equipment and shipping goods is low enough to make the $4 coffee and many similar purchases profitable, even though it seems like they should be prohibitively unprofitable.
 

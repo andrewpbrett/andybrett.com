@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Gristmill"
 ---
 All you faithful readers might have noticed a drop in the number of posts

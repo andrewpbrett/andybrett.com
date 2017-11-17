@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "When Pixels Collide"
 external_link: "http://sudoscript.com/reddit-place/"
 ---

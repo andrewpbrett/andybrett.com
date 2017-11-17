@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Stephen Colbert at the National Portrait Gallery"
 ---
 Last night around 6:15 a coworker and I were feeling spontaneous, so we

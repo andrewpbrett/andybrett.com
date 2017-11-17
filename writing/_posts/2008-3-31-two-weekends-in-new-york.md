@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Two Weekends in New York"
 ---
 Couple highlights from the last two weekends here:

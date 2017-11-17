@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "The Best Camera Is the One You Don't Take Out of Your Pocket"
 ---
 When I was younger I liked to read books about kids who were detectives, like
@@ -48,4 +47,3 @@ user**](http://blog.pinboard.in/2011/12/don_t_be_a_free_user/). I know that I
 can buy filters and buy songs on iTunes via Path, but that's not really tied
 to the value that I'm getting from the app. How about a voluntary subscription
 a la [Instapaper](http://instapaper.com)?
-

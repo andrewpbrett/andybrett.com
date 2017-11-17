@@ -1,6 +1,5 @@
 ---
 title: "Teaching Machines Original Thinking"
-layout: main
 ---
 The Economist has devoted a cover to a [complete][complete] and [utter][utter] takedown of GDP as a metric. Many of the arguments are familiar, but the most convincing one is the one that the piece leads and ends with:
 

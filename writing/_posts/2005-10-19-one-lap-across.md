@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "One lap across..."
 ---
 [...just one very, very long lap](http://www.latimes.com/travel/outdoors/la-

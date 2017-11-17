@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Last post for a while"
 ---
 Since I am leaving tomorrow morning at 8:45 for the Shenandoahs, and I have an

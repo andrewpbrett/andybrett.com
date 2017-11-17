@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Thoroughly Modern Do-Gooders"
 ---
 When I read David Brooks I generally agree with what he has to say - and every

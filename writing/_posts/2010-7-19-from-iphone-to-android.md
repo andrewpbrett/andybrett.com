@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "From iPhone to Android"
 ---
 I've been using the HTC EVO for a full two months now, after a trial period of
@@ -109,4 +108,3 @@ there's just so much stuff trying to fit into a small space that it's
 difficult at times to know whether it's best to bring up the secondary
 character set or try to find the character you're looking for in the shift
 keys above the current one.
-

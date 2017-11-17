@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Moxie Marlinspike &gt;&gt; Stories &gt;&gt; Hypothermia"
 external_link: "https://moxie.org/stories/brink-of-death/"
 ---

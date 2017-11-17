@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Finally, a post"
 ---
 Clearly my lack of posts for the last, oh, 2 months has been the result of

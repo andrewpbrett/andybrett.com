@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Four Hour Workweek"
 ---
 "[The Four-Hour Workweek](http://www.fourhourworkweek.com/blog/)" is one part

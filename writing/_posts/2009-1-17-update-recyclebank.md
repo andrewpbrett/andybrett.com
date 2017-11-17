@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Update: RecycleBank"
 ---
 On the day of my last post, the Dow closed at 11,516.92. I apologize for the

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "How Indians reliever Andrew Miller will end the tyranny of the save"
 external_link: "http://www.espn.com/mlb/story/_/id/18992656/indians-ace-reliever-andrew-miller-end-tyranny-save"
 ---

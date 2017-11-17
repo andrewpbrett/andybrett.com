@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Race Report: Coast Raid"
 ---
 [Pictures](http://picasaweb.google.com/andybrett)

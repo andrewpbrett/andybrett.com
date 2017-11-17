@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "What's better than a flawed report?  NO report!"
 ---
 Larry C. Johnson, whom I saw speak at the Woodrow Wilson School's colloquium,

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Movin' on up"
 ---
 ...to the East side.

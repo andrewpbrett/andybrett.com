@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Lorax"
 ---
 Jonathan H. Adler has a post over at The Commons about how we might interpret

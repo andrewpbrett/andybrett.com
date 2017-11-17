@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "RSS: Not Dead Yet"
 external_link: http://www.avc.com/a_vc/2011/01/rss-not-dead-yet.html
 ---

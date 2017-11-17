@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The End of Poverty"
 ---
 The End of Poverty, by Jeffery Sachs, has made my to-do list.

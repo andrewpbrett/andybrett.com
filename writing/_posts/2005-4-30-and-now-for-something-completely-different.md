@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "And now for something completely different"
 ---
 We interrupt this blog to bring you some musings from Andy Brett _(skip this

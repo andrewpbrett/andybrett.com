@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "You know me..."
 ---
 I'm a real Reagan revolutionary:

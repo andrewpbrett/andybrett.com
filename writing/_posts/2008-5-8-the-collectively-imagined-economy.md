@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Collectively Imagined Economy"
 ---
 There has been [ample](http://www.businessweek.com/managing/content/jan2008/ca

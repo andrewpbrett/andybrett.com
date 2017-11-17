@@ -1,13 +1,12 @@
 ---
 type: post
-layout: main
 title: "Export and Visualize Your Jawbone UP Data"
 ---
 About a month ago I wrote about some of the [issues][1] I had with the Jawbone UP. I'm still using the UP, and happy to report that I've fixed the last item on the list - the lack of a web interface and data export.
 
 It's based on the [unofficial api][2] for the UP. When I saw this I published a little [ruby gem][3] for it and used that as the basis for an app.
 
-I've published the (very primitive) app at [jawbone.heroku.com][4]. You can go there to see some demo data from my account. 
+I've published the (very primitive) app at [jawbone.heroku.com][4]. You can go there to see some demo data from my account.
 
 If you put in your login credentials for jawbone.com in the upper left there, you should see your data displayed instead of the demo. You can also then go to [jawbone.heroku.com/data.json][5] to download it.
 

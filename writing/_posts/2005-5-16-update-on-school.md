@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Update on School"
 ---
 I have completely finished three classes. At 10 AM tomorrow, but more likely

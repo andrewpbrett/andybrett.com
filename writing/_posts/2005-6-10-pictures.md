@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Pictures"
 ---
 Pictures of some of the field work we are doing can be found

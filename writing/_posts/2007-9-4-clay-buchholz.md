@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Clay Buchholz"
 ---
 My first game at Fenway and it happens to be a [no-

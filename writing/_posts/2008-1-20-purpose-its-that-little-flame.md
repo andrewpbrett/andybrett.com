@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Purpose... it's that little flame..."
 ---
 ... that lights a fire, under your ass.

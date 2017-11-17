@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Days are Just Packed"
 ---
 1. Create "Maximo Park Radio" on Pandora

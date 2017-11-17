@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Heuristics"
 ---
 I think I have discovered the word for a lot of what I've been mulling over

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Dueling Perceptions of \"Kids These Days\""
 ---
 Not to quash the cross-continental conversation that's been going on in the

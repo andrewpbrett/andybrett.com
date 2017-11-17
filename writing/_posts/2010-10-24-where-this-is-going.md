@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Where This Is Going"
 ---
 If you're an astute follower of this space, or a site crawler, you may have
@@ -93,4 +92,3 @@ Produce (or at least publish) less content, but make it good! They say the
 difference between an amateur and a professional photographer is that the
 amateur shows you every photo she takes, while the professional only shows you
 the cream of the crop. Hopefully this post is a step in the right direction.
-

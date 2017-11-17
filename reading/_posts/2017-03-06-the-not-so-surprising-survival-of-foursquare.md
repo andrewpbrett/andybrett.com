@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "The Not-So-Surprising Survival of Foursquare"
 external_link: "http://www.newyorker.com/business/currency/the-not-so-surprising-survival-of-foursquare"
 ---

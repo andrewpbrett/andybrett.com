@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Google Reader Stats, an Update; Plus: Googlegängers"
 ---
 And the moral of the story is: never start work on solving a common problem

@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Google Sky"
 ---
 Continuing the long tradition of posts that focus on some cool new product or

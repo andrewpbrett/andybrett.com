@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "USA TODAY, tomorrow the world"
 ---
 While I don't understand why "today" is all caps, I have a

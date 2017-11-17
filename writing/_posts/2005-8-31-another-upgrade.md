@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Another Upgrade"
 ---
 With a hop, skip and a jump I'm now a [Flippery Fish](http://www.truthlaidbear

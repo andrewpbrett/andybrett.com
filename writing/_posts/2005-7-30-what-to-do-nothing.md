@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "What to do? Nothing!*"
 ---
 (Title adopted from Jerry Taylor's [article](http://www.willyoujoinus.com/discussion/more.aspx#expertB) on Chevron's "Will you join us?" campaign.)

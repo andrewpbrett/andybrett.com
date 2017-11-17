@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Everyday Design: Facebook and the Prius"
 ---
 I had a couple of thoughts about the design of two everyday things within about 30 minutes of each other today, so I thought I'd share...maybe this will become a regular topic.

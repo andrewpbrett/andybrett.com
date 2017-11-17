@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "Friday Rant: \"Out of Pocket\""
 ---
 Someone just walked by my desk and I overheard them say "out of pocket." A few

@@ -1,6 +1,5 @@
 ---
 type: post
-layout: main
 title: "Race Report: Bay to Breakers"
 ---
 **Result: 51:28 (12k)**   
@@ -52,4 +51,3 @@ I was happy with the time but I've pretty much been training through this
 race, as the Dipsea next month is the real target. If I were to post the same
 time there as I ran today, it would fare very well - there's just the matter
 of the vastly more challenging course to contend with.
-

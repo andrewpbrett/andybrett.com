@@ -1,5 +1,4 @@
 ---
-layout: main
 title: "‘The Internet Is Broken’: @ev Is Trying to Salvage It"
 external_link: "https://www.nytimes.com/2017/05/20/technology/evan-williams-medium-twitter-internet.html"
 ---

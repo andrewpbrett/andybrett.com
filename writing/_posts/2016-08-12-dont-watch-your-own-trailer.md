@@ -1,6 +1,5 @@
 ---
 title: "Don't Watch Your Own Trailer"
-layout: main
 ---
 When I was eight we took a family trip to Washington DC. I found a book for kids at the library that contained all the museums and monuments that one could visit - a Fodor's for fourth graders. My little brain fired up its still-developing "make and complete lists" neurons and a few days later, voila, we now had a timetable. We were also going to stick to said timetable whether every last family member liked it or not. I don't (choose to) remember the exact circumstances but at some point, tears were shed over that list. I do, however, remember the Apollo 11 command module at the National Air and Space museum.
 
