@@ -2,10 +2,10 @@
 ---
 {% include header.html %}
 	<div id='canvas'>
-		{% case page.type %}
-			{% when "post" %}
+		{% case page.category %}
+			{% when "writing" %}
 				{% include post.html %}
-			{% when "photo" %}
+			{% when "photos" %}
 				{% assign photo = page %}
 				{% include photo.html %}
 			{% else %}

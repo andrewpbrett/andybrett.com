@@ -3,10 +3,5 @@ layout: main
 title: Andy Brett
 ---
 
-{% for p in site.posts %}
-  {% if p.type == 'post' %}
-    {% assign post = p %}
-    {% include post.html %}
-    {% break %}
-  {% endif %}
-{% endfor %}
+{% assign post = site.categories.writing | first %}
+{% include post.html %}

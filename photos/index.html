@@ -3,13 +3,11 @@ layout: main
 title: Andy Brett | Photos
 ---
 <div id="photos">
-  {% for post in site.posts %}
-		{% if post.type == "photo" %}
-			<div class="photo">
-				<a class="gallery_image" href="{{ post.id }}">
-					<img src="/assets/photos/thumbnails/{{ post.filename }}" />
-				</a>
-			</div>
-		{% endif %}
+  {% for post in site.categories.photos %}
+		<div class="photo">
+			<a class="gallery_image" href="{{ post.id }}">
+				<img src="/assets/photos/thumbnails/{{ post.filename }}" />
+			</a>
+		</div>
   {% endfor %}
 </ul>
