@@ -1,6 +1,5 @@
 ---
 type: photo
-layout: main
 caption: "Drum tower"
 filename: "20171116161503.jpg"
 fstop: "f/1.8"
