@@ -1,15 +1,4 @@
 <div class="bookmark">
-	{% if post == null %}
-
-		<a href="{{ page.external_link }}">{{ page.title }}</a>
-		<div class="clear"></div>
-
-		{{ content }}
-
-		<div class="date">{{ page.date | date: "%-d %b %Y" }}</div>
-
-	{% else %}
-
 		<a href="{{ post.external_link }}">{{ post.title }}</a>
 		<div class="clear"></div>
 
@@ -18,7 +7,4 @@
 		</div>
 
 		{{ post.content }}
-
-	{% endif %}
-
 </div>

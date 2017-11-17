@@ -2,12 +2,16 @@
 ---
 {% include header.html %}
 	<div id='canvas'>
-		{% case page.category %}
+		{% assign category = page.categories | first %}
+		{% case category %}
 			{% when "writing" %}
 				{% include post.html %}
 			{% when "photos" %}
 				{% assign photo = page %}
 				{% include photo.html %}
+			{% when "reading" %}
+				{% assign post = page %}
+				{% include bookmark.html %}
 			{% else %}
 				{{ content }}
 		{% endcase %}
