@@ -2,6 +2,8 @@
 	<img src="/assets/photos/originals/{{photo.filename}}" />
 	{{ photo.caption }}
 	<br/>
+	{{ photo.date | "%-d %b, %Y"}}
+	<br />
 	Aperture: {{photo.fstop}}
 	<br/>
 	Exposure: {{photo.exposure}}
