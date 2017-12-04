@@ -1,5 +1,7 @@
 <div class="solo-photo">
-	<img src="/assets/photos/originals/{{photo.filename}}" />
+	<a href="/assets/photos/originals/{{photo.filename}}">
+		<img src="/assets/photos/large/{{photo.filename}}" />
+	</a>
 	{{ photo.caption }}
 	<br/>
 	{{ photo.date | date: "%-d %b, %Y"}}
