@@ -22,10 +22,10 @@ h1#summary{float:left;margin:18px -9px;padding:10px 32px;}
 #nav_list a{color:inherit;}
 #flashnotice{color:green;font-weight:bold;min-height:0;}
 .permalink a{color:gray!important;font-size:14px!important;font-weight:normal!important;}
-.text_container,#flashnotice,#posts,.post,#updates,.update,.bookmark,.admin_form{margin:auto;max-width:600px;margin-top:25px;}
+.text_container,#flashnotice,#posts,.post,#updates,.update,.bookmark,.admin_form{margin:auto;width: 100%;margin-top:25px;}
 #timeline{line-height:20px;display:block;margin-top:5px;}
 .fancybox-title-inside .permalink{float:right;}
-#timeline .bookmark,#timeline .post,#timeline .post-link{padding:20px 10px;line-height:26px;max-width:560px;}
+#timeline .bookmark,#timeline .post,#timeline .post-link{padding:20px 10px;line-height:26px;width:100%;}
 #timeline .post-link { border-bottom: 0; margin: auto; padding: 0px 10px; }
 #timeline .post-link .title { margin-bottom: 0px; font-size: 16px; }
 #timeline .post-link .link-date { font-size: 14px; }
@@ -51,3 +51,7 @@ a.gallery_image img { width: 100px; margin: 10px; }
 .solo-photo a { cursor: zoom-in; }
 #photos .photo { float: left; height: 120px; width: 120px; position: relative; margin: 10px; }
 #photos .photo img {max-height: 100%;max-width: 100%;width: auto;height: auto;position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;}
+@media only screen and (min-width: 768px) {
+  #timeline .bookmark,#timeline .post,#timeline .post-link{max-width: 560px;}
+  .text_container,#flashnotice,#posts,.post,#updates,.update,.bookmark,.admin_form{max-width: 600px;}
+}
