@@ -1,3 +1,5 @@
+title: Andy Brett
+url: "https://andybrett.com"
 permalink: /:categories/:title.html
 defaults:
   -
@@ -8,3 +10,6 @@ defaults:
 kramdown:
   input: GFM
   hard_wrap: false
+exclude: ["deploy.sh"]
+baseurl: "/"
+sitesource: https://github.com/andrewpbrett/andybrett.com

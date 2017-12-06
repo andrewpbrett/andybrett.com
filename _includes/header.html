@@ -5,47 +5,37 @@
 		<link rel="shortcut icon" type="image/png" href="/favicon.png">
 		<meta name="description" content="Home page for Andy Brett"/>
 		<meta name="referrer" content="no-referrer">
-		<link href="/css/screen.css" media="screen" rel="stylesheet" type="text/css"/>
-		<link href="/writing.rss" rel="alternate" title="RSS" type="application/rss+xml"/>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+		<!-- Enable responsiveness on mobile devices-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+		<!-- CSS -->
+		<link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}public/css/screen.css">
+		<link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.png">
+
+		<!-- RSS -->
 	</head>
-	<body>
-		<div id='header'>
-			<div id='nav_bar'>
-				<a href='/'>
-					<img alt="Andy Brett" id="profile_pic" src="/images/andy_brett.png"/>
-				</a>
-				<div id='nav_list'>
-					<ul>
-						{% if page.url == "/writing/" %}
-							<li id='writing' class='active'>
-						{% else %}
-							<li id='writing'>
-						{% endif %}
-								<a href='/writing'>Writing</a>
-							</li>
-						{% if page.url == "/reading/" %}
-							<li id='reading' class='active'>
-						{% else %}
-							<li id='reading'>
-						{% endif %}
-								<a href='/reading'>Reading</a>
-							</li>
-						{% if page.url == "/photos/" %}
-							<li id='photos' class='active'>
-						{% else %}
-							<li id='photos'>
-						{% endif %}
-								<a href='/photos'>Photos</a>
-							</li>
-						{% if page.url == "/projects" %}
-							<li id='projects' class='active'>
-						{% else %}
-							<li id='projects'>
-						{% endif %}
-								<a href='/projects'>Projects</a>
-							</li>
-					</ul>
-				</div>
-				<div class='clear'></div>
-			</div>
-		</div>
+	<body class="theme-base-0d">
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+			{% assign category = page.categories | first %}
+			{% case category %}
+				{% when "writing" %}
+					{% include post.html %}
+				{% when "photos" %}
+					{% assign photo = page %}
+					{% include photo.html %}
+				{% when "reading" %}
+					{% assign post = page %}
+					{% include bookmark.html %}
+				{% else %}
+					{{ content }}
+			{% endcase %}
+    </div>
+
+  </body>
