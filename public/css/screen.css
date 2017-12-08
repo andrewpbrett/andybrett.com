@@ -5,7 +5,7 @@
 .solo-photo { width: 80%; margin: 10px auto; }
 .solo-photo img { width: 100%; }
 .solo-photo a { cursor: zoom-in; }
-#photos .photo { float: left; height: 120px; width: 120px; position: relative; margin: 10px; }
+#photos .photo { float: left; height: 100px; width: 100px; position: relative; margin: 10px; }
 #photos .photo img {max-height: 100%;max-width: 100%;width: auto;height: auto;position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;}
 .sidebar a {
   text-transform: capitalize;
