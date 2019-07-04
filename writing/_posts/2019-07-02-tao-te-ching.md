@@ -1,7 +1,7 @@
 ---
 title: "Tao Te Ching"
 ---
-#### 1
+#### One
 
 _The Tao that can be told is not the eternal Tao.  
 The name that can be named is not the eternal name.  
@@ -25,3 +25,35 @@ This Quality can only be approximated, and Alexander gives half a dozen words th
 In the next lines (3-6), this translation chooses words that convey heirarchy between the two things it's comparing. The nameless, the beginning of heaven and earth, being the "better" one. After all, isn't it better to see the mystery itself rather than *just* the manifestations? The choice of "desireless" evokes Buddhist tradition and reinforces the heirarchy. But what's so bad about being the mother of ten thousand things?
 
 The closing of this chapter stands almost as a warning for the rest of the book: contradictions and mystery await all ye who enter here.
+
+---
+
+#### Two
+
+_Under heaven all can see beauty as beauty only because there is ugliness.  
+All can know good as good only because there is evil._  
+
+_Therefore having and not having arise together.  
+Difficult and easy complement each other.  
+Long and short contrast each other;  
+High and low rest upon each other;  
+Voice and sound harmonize each other;  
+Front and back follow one another._  
+
+_Therefore the sage goes about doing nothing, teaching no-talking.  
+The ten thousand things rise and fall without cease,  
+Creating, yet not possessing,  
+Working, yet not taking credit.  
+Work is done, then forgotten.  
+Therefore it lasts forever._
+
+---
+
+I've had several discussions lately about the state of the world, usually involving words like hopeless, apocalypse, fear, powerless, etc. And I usually play the role of the Polyannish optimist; yes, things are pretty bad. But there's a lot of good that's happening specifically in response to the bad stuff.
+
+When I was young I had a hard time with the concept of heaven as a desirable afterlife. You mean there's no badness, I can have anything I want, talk to anyone I want, have any experience I want? That sounds pretty boring! Maybe I was getting the oversimplified description but still - it's in the contrast and tension that I (and I would argue, humans) find meaning.
+
+> Work is done, then forgotten.  
+> Therefore it lasts forever.
+
+A new mantra.
