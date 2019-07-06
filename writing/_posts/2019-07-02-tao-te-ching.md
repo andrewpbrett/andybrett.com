@@ -57,3 +57,25 @@ When I was young I had a hard time with the concept of heaven as a desirable aft
 > Therefore it lasts forever.
 
 A new mantra.
+
+---
+
+#### Three
+
+_Not exalting the gifted prevents quarreling.  
+Not collecting treasures prevents stealing.  
+Not seeing desirable things prevents confusion of the heart._  
+
+_The wise therefore rule by emptying hearts and stuffing bellies,  
+&nbsp;&nbsp;&nbsp;&nbsp;by weakening ambitions and strengthening bones.  
+If people lack knowledge and desire,  
+&nbsp;&nbsp;&nbsp;&nbsp;then intellectuals will not try to interfere.  
+If nothing is done, then all will be well._
+
+---
+
+The first reading found me readying counterarguments to this chapter. Why not celebrate talents, or ambition? Why elevate a lack of knowledge or desire? But rereading the lines brought another interpretation, a Machiavellian one. There is no judgment, no statement that a person or society *shouldn’t* exalt the gifted, or weaken ambitions. Just statements about the consequences. 
+
+And while it may make it easier to rule a people with bread and circuses and weakened ambitions, this isn’t necessarily a prescriptive chapter. Is a wise ruler something one should aspire to be? A people lacking knowledge and desire will mean little interference from intellectuals - but is that good? The chapter offers little judgment upon close inspection. 
+
+The message for the gifted: you can use your gifts and talents, if you do not require that you be exalted in return. Not a bad deal. Work is done and then forgotten. 
