@@ -74,8 +74,30 @@ If nothing is done, then all will be well._
 
 ---
 
-The first reading found me readying counterarguments to this chapter. Why not celebrate talents, or ambition? Why elevate a lack of knowledge or desire? But rereading the lines brought another interpretation, a Machiavellian one. There is no judgment, no statement that a person or society *shouldn’t* exalt the gifted, or weaken ambitions. Just statements about the consequences. 
+The first reading found me readying counterarguments to this chapter. Why not celebrate talents, or ambition? Why elevate a lack of knowledge or desire? But rereading the lines brought another interpretation, a Machiavellian one. There is no judgment, no statement that a person or society *shouldn’t* exalt the gifted, or weaken ambitions. Just statements about the consequences.
 
-And while it may make it easier to rule a people with bread and circuses and weakened ambitions, this isn’t necessarily a prescriptive chapter. Is a wise ruler something one should aspire to be? A people lacking knowledge and desire will mean little interference from intellectuals - but is that good? The chapter offers little judgment upon close inspection. 
+And while it may make it easier to rule a people with bread and circuses and weakened ambitions, this isn’t necessarily a prescriptive chapter. Is a wise ruler something one should aspire to be? A people lacking knowledge and desire will mean little interference from intellectuals - but is that good? The chapter offers little judgment upon close inspection.
 
-The message for the gifted: you can use your gifts and talents, if you do not require that you be exalted in return. Not a bad deal. Work is done and then forgotten. 
+The message for the gifted: you can use your gifts and talents, if you do not require that you be exalted in return. Not a bad deal. Work is done and then forgotten.
+
+---
+
+#### Four
+
+_The Tao is an empty vessel; it is used, but never filled.  
+Oh, unfathomable source of ten thousand things!  
+Blunt the sharpness,  
+Untangle the knot,  
+Soften the glare,  
+Merge with dust.  
+Oh, hidden deep but ever present!  
+I do not know from whence it comes.  
+It is the forefather of the emperors._
+
+---
+
+A meditation on the inevitable march toward increasing entropy. Is this ("blunt the sharpness" etc.) a plea addressed to the Tao? A mere statement about what it does? Water, a common analogy for the Tao, has all of these effects over long periods of time.
+
+We run into a seeming contradiction across chapters here; the Tao being referred to as the source of ten thousand things, whereas in the first chapter it appears to be the "named," and not the nameless Tao, that's described in that way.
+
+The chapter ends with another connection to rulers, in this case emperors. How egalitarian is this philosophy?
