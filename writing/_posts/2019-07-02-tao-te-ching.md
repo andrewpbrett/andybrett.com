@@ -101,3 +101,24 @@ A meditation on the inevitable march toward increasing entropy. Is this ("blunt 
 We run into a seeming contradiction across chapters here; the Tao being referred to as the source of ten thousand things, whereas in the first chapter it appears to be the "named," and not the nameless Tao, that's described in that way.
 
 The chapter ends with another connection to rulers, in this case emperors. How egalitarian is this philosophy?
+
+---
+
+#### Five
+
+_Heaven and earth are ruthless;  
+They see the ten thousand things as dummies.  
+The wise are ruthless;  
+They see the people as dummies._
+
+_The space between heaven and earth is like a bellows.  
+The shape changes but not the form;  
+The more it moves, the more it yields.  
+More words count less.  
+Hold fast to the center._
+
+---
+
+The wise and heaven and earth all impartial, rather than ruthless. They see the true nature of the world: ephemeral. People, plants, empires, animals, all come and go; changing shapes, rearranging atoms.
+
+The wise person recognizes this and allows it to happen around him, not spending words or energy on where the fashion is heading at this particular moment. But he also holds fast on a few principles.
