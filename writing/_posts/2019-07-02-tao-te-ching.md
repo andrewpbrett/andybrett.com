@@ -119,6 +119,22 @@ Hold fast to the center._
 
 ---
 
-The wise and heaven and earth all impartial, rather than ruthless. They see the true nature of the world: ephemeral. People, plants, empires, animals, all come and go; changing shapes, rearranging atoms.
+The wise and heaven and earth are all impartial, rather than ruthless. They see the true nature of the world: ephemeral. People, plants, empires, animals, all come and go; changing shapes, rearranging atoms.
 
 The wise person recognizes this and allows it to happen around him, not spending words or energy on where the fashion is heading at this particular moment. But he also holds fast on a few principles.
+
+---
+
+#### Six
+
+_The valley spirit never dies;  
+It is the woman, primal mother.  
+Her gateway is the root of heaven and earth.  
+It is like a veil barely seen.  
+Use it; it will never fail._  
+
+---
+
+Immortal, infallible, nearly invisible. The admonition to use this spirit is simple but difficult to follow, like much of the Tao. Is the female spirit something to be used though? Is this why the advice needs to be given, perhaps, the fact that it doesn't lend itself to being used. It's something to work alongside, to be partnered with.
+
+Another translation (James Legge) adds "gently" to describe this usage; it seems unlikely that the sentiment was explicitly written in the original Chinese, but matches my sense for what's being implied.
