@@ -138,3 +138,25 @@ Use it; it will never fail._
 Immortal, infallible, nearly invisible. The admonition to use this spirit is simple but difficult to follow, like much of the Tao. Is the female spirit something to be used though? Is this why the advice needs to be given, perhaps, the fact that it doesn't lend itself to being used. It's something to work alongside, to be partnered with.
 
 Another translation (James Legge) adds "gently" to describe this usage; it seems unlikely that the sentiment was explicitly written in the original Chinese, but matches my sense for what's being implied.
+
+---
+
+#### Seven
+
+_Heaven and earth last forever.  
+Why do heaven and earth last forever?  
+They are unborn,  
+So ever living.  
+The sage stays behind, thus he is ahead.  
+He is detached, thus at one with all.  
+Through selfless action, he attains fulfillment._
+
+---
+
+July 10, 2019
+
+Selfless, versus egoless. Given the description of the sage in the previous line, "detached, thus at one with all," the current sense of egoless seems closer to the mark.
+
+We often use selfless as a synonym for altruistic - doing things for others without an expectation of getting something in return. A person can be selfless with a somewhat shallow understanding of the universe; a child might be taught to share a toy without much more explanation than "be nice to your brother." A sense of identity is still there, and even the most selfless of actions brings at least some reward in a sense of having done good or being more fulfilled - "when you help others, you can't help helping yourself," as the musical _Avenue Q_ puts it.
+
+Egoless, on the other hand, implies a motivation behind the selfless act. An active desire to dissolve the barrier between "I" and "not I", and usually for reasons that run a little deeper than a simple selfless act. Maybe an understanding that the action that appears to be selfless isn't really selfless at all - that person you are helping is, in some sense, you. Maybe _Avenue Q_ had this deeper meaning in mind after all, and the lyric is to be taken more literally: when you help others, you can't help but be helping yourself at the same time, because they are just as much you as you are, you egoless sage.
