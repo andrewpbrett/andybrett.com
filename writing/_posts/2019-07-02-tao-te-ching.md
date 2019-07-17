@@ -153,10 +153,36 @@ Through selfless action, he attains fulfillment._
 
 ---
 
-July 10, 2019
+July 10
 
 Selfless, versus egoless. Given the description of the sage in the previous line, "detached, thus at one with all," the current sense of egoless seems closer to the mark.
 
 We often use selfless as a synonym for altruistic - doing things for others without an expectation of getting something in return. A person can be selfless with a somewhat shallow understanding of the universe; a child might be taught to share a toy without much more explanation than "be nice to your brother." A sense of identity is still there, and even the most selfless of actions brings at least some reward in a sense of having done good or being more fulfilled - "when you help others, you can't help helping yourself," as the musical _Avenue Q_ puts it.
 
 Egoless, on the other hand, implies a motivation behind the selfless act. An active desire to dissolve the barrier between "I" and "not I", and usually for reasons that run a little deeper than a simple selfless act. Maybe an understanding that the action that appears to be selfless isn't really selfless at all - that person you are helping is, in some sense, you. Maybe _Avenue Q_ had this deeper meaning in mind after all, and the lyric is to be taken more literally: when you help others, you can't help but be helping yourself at the same time, because they are just as much you as you are, you egoless sage.
+
+---
+
+#### Eight
+
+_The highest good is like water.  
+Water gives life to the ten thousand things and does not strive.  
+It flows in places men reject and so is like the Tao._
+
+_In dwelling, be close to the land.  
+In meditation, go deep in the heart.  
+In dealing with others, be gentle and kind.  
+In speech, be true.  
+In ruling, be just.  
+In business, be competent.  
+In action, watch the timing._
+
+_No fight: No blame._
+
+July 17
+
+A chapter to hand to someone who's never heard of the Tao. This chapter also highlights just how beautiful and concise this translation is.
+
+The middle verse could be seen as a set of commandments. But there's a different tone to these as opposed to, say, the 10 commandments of the Old Testament. They have a softer, more advice-like quality to them. There's not an implication of sin if you don't live up to them. And there's (slightly) less of a black and white feeling to them. There's no "do not murder", but you could read "In speech, be true" as the equivalent of not bearing false witness. Still, most of the other advice from the Tao is a matter of degree - be as close to the land as possible, go as deep in the heart as possible.
+
+It meets you where you are, without expectations or even judgment, with a gentle nudge toward being more like the water.
