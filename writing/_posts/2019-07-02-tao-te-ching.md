@@ -179,6 +179,8 @@ In action, watch the timing._
 
 _No fight: No blame._
 
+---
+
 July 17
 
 A chapter to hand to someone who's never heard of the Tao. This chapter also highlights just how beautiful and concise this translation is.
