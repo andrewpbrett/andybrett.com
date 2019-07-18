@@ -188,3 +188,28 @@ A chapter to hand to someone who's never heard of the Tao. This chapter also hig
 The middle verse could be seen as a set of commandments. But there's a different tone to these as opposed to, say, the 10 commandments of the Old Testament. They have a softer, more advice-like quality to them. There's not an implication of sin if you don't live up to them. And there's (slightly) less of a black and white feeling to them. There's no "do not murder", but you could read "In speech, be true" as the equivalent of not bearing false witness. Still, most of the other advice from the Tao is a matter of degree - be as close to the land as possible, go as deep in the heart as possible.
 
 It meets you where you are, without expectations or even judgment, with a gentle nudge toward being more like the water.
+
+---
+
+#### Nine
+
+_Better stop short than fill to the brim.  
+Oversharpen the blade, and the edge will soon blunt.  
+Amass a store of gold and jade, and no one can protect it.  
+Claim wealth and titles, and disaster will follow.  
+Retire when the work is done.  
+This is the way of heaven._
+
+---
+
+July 18
+
+Modern-day aphorisms abound, all drawing from these lines. Quit while you're ahead, work smarter not harder, Hemingway's advice to "Always stop while you are going good."
+
+I think of running, and my own shift in mentality over the past several years. Like an oversharpened blade, running too many long races in relatively rapid succession is a recipe for burnout or injury.
+
+The advice seems easy to dole out from the perspective of an elder, and probably equally hard to follow as a youth, full of ambition and desire. "You're given one life," I can hear him (because he is me) retort. "Might as well suck the marrow out of life every day."
+
+True, I'll now reply, but sucking the marrow out of life and *appearing* to do so are two different things. There's a modern obsession with maximizing, optimizing; an idea that there's one ideal sequence of events that will produce the objectively "best" use of each day, week, month, lifetime, and if you're not constantly striving to make those things happen, well, you're not really living.
+
+Retire when the work is done. The trick is knowing when that is. 
