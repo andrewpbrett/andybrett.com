@@ -212,4 +212,37 @@ The advice seems easy to dole out from the perspective of an elder, and probably
 
 True, I'll now reply, but sucking the marrow out of life and *appearing* to do so are two different things. There's a modern obsession with maximizing, optimizing; an idea that there's one ideal sequence of events that will produce the objectively "best" use of each day, week, month, lifetime, and if you're not constantly striving to make those things happen, well, you're not really living.
 
-Retire when the work is done. The trick is knowing when that is. 
+Retire when the work is done. The trick is knowing when that is.
+
+---
+
+#### Ten
+
+
+_Carrying body and soul and embracing the one,  
+Can you avoid separation?  
+Attending fully and becoming supple,  
+Can you be as a newborn babe?  
+Washing and cleansing the primal vision,  
+Can you be without stain?  
+Loving all men and ruling the country,  
+Can you be without cleverness?  
+Opening and closing the gates of heaven,  
+Can you play the role of woman?  
+Understanding and being open to all things,  
+Are you able to do nothing?  
+Giving birth and nourishing,  
+Bearing yet not possessing,
+Working yet not taking credit,  
+Leading yet not dominating,  
+This is the Primal Virtue._
+
+---
+
+July 22
+
+Looking at the first section, the questions appear as challenges set to the reader. In other words, Can you do these things? They are things to aspire to. "Can you be without cleverness" at first glance seems to break the pattern, but this translation uses "clever" in a more neutral or even negative sense... almost as in "trickery." We also see more advice for rulers of countries, a common theme thus far. Doing nothing, the last question, might also seem to break the pattern, but we've already seen the act of not-doing to be held up as virtuous elsewhere in the Tao Te Ching.
+
+Bearing yet not possessing... leading yet not dominating.  
+
+This balancing act has been on my mind lately. It's easy to justify a dominating style of leadership. "It's more efficient this way" is often the excuse. Someone has to take charge, after all. But the goal of being efficient needs to be questioned. Are you trying to accomplish some task as quickly as possible? Why? Would there be more joy, more learning, with a style of leadership that was more democratic, that allowed for roles to shift rather than be pigeonholed? If you dominate rather than lead, what will happen when you can no longer lead? "Are you able to do nothing" and let others do instead? 
