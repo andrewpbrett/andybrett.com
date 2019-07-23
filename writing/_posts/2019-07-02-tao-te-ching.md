@@ -245,4 +245,25 @@ Looking at the first section, the questions appear as challenges set to the read
 
 Bearing yet not possessing... leading yet not dominating.  
 
-This balancing act has been on my mind lately. It's easy to justify a dominating style of leadership. "It's more efficient this way" is often the excuse. Someone has to take charge, after all. But the goal of being efficient needs to be questioned. Are you trying to accomplish some task as quickly as possible? Why? Would there be more joy, more learning, with a style of leadership that was more democratic, that allowed for roles to shift rather than be pigeonholed? If you dominate rather than lead, what will happen when you can no longer lead? "Are you able to do nothing" and let others do instead? 
+This balancing act has been on my mind lately. It's easy to justify a dominating style of leadership. "It's more efficient this way" is often the excuse. Someone has to take charge, after all. But the goal of being efficient needs to be questioned. Are you trying to accomplish some task as quickly as possible? Why? Would there be more joy, more learning, with a style of leadership that was more democratic, that allowed for roles to shift rather than be pigeonholed? If you dominate rather than lead, what will happen when you can no longer lead? "Are you able to do nothing" and let others do instead?
+
+---
+
+#### Eleven
+
+_Thirty spokes share the wheel's hub;  
+It is the center hole that makes it useful.  
+Shape clay into a vessel;  
+It is the space within that makes it useful.  
+Cut doors and windows for a room;  
+It is the holes which make it useful.  
+Therefore profit comes from what is there;  
+Usefulness from what is not there._
+
+---
+
+July 23
+
+The material and the visible structure are what literally make up an object - but they're not what give it beauty. The amount of clay used for a pot or wood used for a bookcase are what make up the bill of materials, determine whether and how it will be produced again in large quantities. The space in the handle of the cup or way the books are framed, the way a room feels because of where the windows are placed - the Tao calls this usefulness, but it goes beyond that, to beauty. Or maybe it's more in the sense of non-utilitarian usefulness, in that the object will encourage itself to be used, not necessarily because of some quantifiable utility, but because of the way it makes someone feel.
+
+A cave appears in the middle of a storm to a cold, wet, traveler. How useful it is to him that there is no rock there!
