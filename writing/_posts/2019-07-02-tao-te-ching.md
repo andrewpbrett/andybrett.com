@@ -267,3 +267,26 @@ July 23
 The material and the visible structure are what literally make up an object - but they're not what give it beauty. The amount of clay used for a pot or wood used for a bookcase are what make up the bill of materials, determine whether and how it will be produced again in large quantities. The space in the handle of the cup or way the books are framed, the way a room feels because of where the windows are placed - the Tao calls this usefulness, but it goes beyond that, to beauty. Or maybe it's more in the sense of non-utilitarian usefulness, in that the object will encourage itself to be used, not necessarily because of some quantifiable utility, but because of the way it makes someone feel.
 
 A cave appears in the middle of a storm to a cold, wet, traveler. How useful it is to him that there is no rock there!
+
+---
+
+#### Twelve
+
+_The five colors blind the eye.  
+The five tones deafen the ear.  
+The five flavors dull the taste.  
+Racing and hunting madden the mind.  
+Precious things lead one astray._
+
+_Therefore the sage is guided by what he feels and not by what he sees.  
+He lets go of that and chooses this._
+
+---
+
+July 24
+
+In which Lao Tzu predicts the effects of overstimulation from screens and social media...
+
+Why the praise for intuition? Your senses deceive you, the Tao seems to say, they are an illusion. What matters are your thoughts independent of the inputs from the world around you.
+
+Or maybe "feels" is a misleading word here; maybe the intent here is to say that one should deliberately limit inputs, or not be influenced by every sensory stimulation or idea that comes across one's brainwaves.
