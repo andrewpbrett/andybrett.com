@@ -290,3 +290,63 @@ In which Lao Tzu predicts the effects of overstimulation from screens and social
 Why the praise for intuition? Your senses deceive you, the Tao seems to say, they are an illusion. What matters are your thoughts independent of the inputs from the world around you.
 
 Or maybe "feels" is a misleading word here; maybe the intent here is to say that one should deliberately limit inputs, or not be influenced by every sensory stimulation or idea that comes across one's brainwaves.
+
+---
+
+#### Thirteen
+
+_Accept disgrace willingly.  
+Accept misfortune as the human condition._
+
+_What do you mean by "Accept disgrace willingly"?  
+Accept being unimportant.  
+Do not be concerned with loss or gain.  
+This is call "accepting disgrace willingly."_
+
+_What do you mean by "Accept misfortune as the human condition"?  
+Misfortune comes from having a body.  
+Without a body, how could there be misfortune?_
+
+_Surrender yourself humbly; then you can be trusted to care for all things.  
+Love the world as your own self; then you can truly care for all things._
+
+---
+
+August 3
+
+The thread jumping out to me in this chapter is egolessness. The Universalist minister Hosea Ballou was once asked what prevented people from sinning if not for the threat of eternal damnation; he replied that to a Universalist, the thought wouldn't occur to him. "Love the world as your own self; then you can truly care for all things."
+
+Egolessness is necessarily a temporary state. Living and being in the world pragmatically requires having an ego, not to mention a social security number. But by regularly reminding yourself of this state and visiting the sensation, we can inform our behavior and decisions after returning to "reality".
+
+---
+
+#### Fourteen
+
+_Look, it cannot be see -- it is beyond form.  
+Listen, it cannot be heard -- it is beyond sound.  
+Grasp, it cannot be held -- it is intangible.  
+These three are indefinable;
+Therefore they are joined in one._
+
+_From above it is not bright;  
+From below it is not dark:  
+An unbroken thread beyond description.  
+It returns to nothingness.  
+The form of the formless,  
+The image of the imageless,  
+It is called indefinable and beyond imagination._
+
+_Stand before it and there is no beginning.  
+Follow it and there is no end.  
+Stay with the ancient Tao,  
+Move with the present._
+
+_Knowing the ancient beginning is the essence of Tao._
+
+---
+
+August 4
+
+It cannot be named (Chapter 1), seen, heard, held, or described. The lesson is driven home by this point, but what to do about it? Stop striving for it. Allow yourself to be okay with this great mystery, to lack even the words for talking about it precisely. Let go of the desire to chase it down, "for what man has not encountered he has not destroyed."
+
+"Stay with the ancient Tao, / Move with the present". Be present in the world, but not of it. Don't get caught up in matters of fashion or taste, but don't make them the hill you choose to defend either. How much do you let this sort of thing slide? Especially if, say, you thing the world is presently sick and its condition is getting worse? 
