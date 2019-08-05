@@ -349,4 +349,35 @@ August 4
 
 It cannot be named (Chapter 1), seen, heard, held, or described. The lesson is driven home by this point, but what to do about it? Stop striving for it. Allow yourself to be okay with this great mystery, to lack even the words for talking about it precisely. Let go of the desire to chase it down, "for what man has not encountered he has not destroyed."
 
-"Stay with the ancient Tao, / Move with the present". Be present in the world, but not of it. Don't get caught up in matters of fashion or taste, but don't make them the hill you choose to defend either. How much do you let this sort of thing slide? Especially if, say, you thing the world is presently sick and its condition is getting worse? 
+"Stay with the ancient Tao, / Move with the present". Be present in the world, but not of it. Don't get caught up in matters of fashion or taste, but don't make them the hill you choose to defend either. How much do you let this sort of thing slide? Especially if, say, you thing the world is presently sick and its condition is getting worse?
+
+---
+
+#### Fifteen
+
+_The ancient masters were subtle, mysterious, profound, responsive.  
+The depth of their knowledge is unfathomable.  
+Because it is unfathomable,  
+All we can do is describe their appearance.  
+Watchful, like men crossing a winter stream.  
+Alert, like men aware of danger.  
+Courteous, like visiting guests.  
+Yielding, like ice about to melt.  
+Simple, like uncarved blocks of wood.  
+Hollow, like caves.  
+Opaque, like muddy pools._
+
+_Who can wait quietly while the mud settles?  
+Who can remain still until the moment of action?  
+Observers of the Tao do not seek fulfillment.  
+Not seeking fulfillment, they are not swayed by desire for change._
+
+---
+
+August 5
+
+...but I do desire change.
+
+How can you not?
+
+There are days when the Tao seems designed to be fed to a populace to keep them docile and content. Things are fine, don't strive, wait quietly while the world churns and/or burns around you.
