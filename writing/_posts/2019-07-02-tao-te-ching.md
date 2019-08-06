@@ -381,3 +381,29 @@ August 5
 How can you not?
 
 There are days when the Tao seems designed to be fed to a populace to keep them docile and content. Things are fine, don't strive, wait quietly while the world churns and/or burns around you.
+
+---
+
+#### Sixteen
+
+_Empty yourself of everything.  
+Let the mind rest at peace.  
+The ten thousand things rise and fall while the Self watches their return.  
+They grow and flourish and then return to the source.  
+Returning to the source is stillness, which is the way of nature.  
+The way of nature is unchanging.  
+Knowing constancy is insight.  
+Not knowing constancy leads to disaster.  
+Knowing constancy, the mind is open.  
+With an open mind, you will be openhearted.  
+Being openhearted, you will act royally.  
+Being royal, you will attain the divine.  
+Being divine, you will be at one with the Tao.  
+Being at one with the Tao is eternal.  
+And though the body dies, the Tao will never pass away._
+
+---
+
+Like a farmer, watching as the ten thousand things cycle from the ground and back into it. Daily, yearly, over decades. Then we hear about our bodies doing the same, on a time scale that we can grasp but that we cannot avoid. The Tao is eternal though - is this another promise of a way to live on, to have a part of us last longer than our bodies? But again, there's no implication of worthiness being necessary when the Tao Te Ching talks about living on in some form. It's merely a statement about the world, lacking judgment or prescription. The first step, though, is having an open mind, by knowing this constancy.
+
+The old farmer knows the law of everything returning to its source, and practices it. Nature bats last. 
