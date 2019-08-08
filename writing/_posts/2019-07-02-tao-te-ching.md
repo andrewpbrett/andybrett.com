@@ -406,4 +406,27 @@ And though the body dies, the Tao will never pass away._
 
 Like a farmer, watching as the ten thousand things cycle from the ground and back into it. Daily, yearly, over decades. Then we hear about our bodies doing the same, on a time scale that we can grasp but that we cannot avoid. The Tao is eternal though - is this another promise of a way to live on, to have a part of us last longer than our bodies? But again, there's no implication of worthiness being necessary when the Tao Te Ching talks about living on in some form. It's merely a statement about the world, lacking judgment or prescription. The first step, though, is having an open mind, by knowing this constancy.
 
-The old farmer knows the law of everything returning to its source, and practices it. Nature bats last. 
+The old farmer knows the law of everything returning to its source, and practices it. Nature bats last.
+
+---
+
+#### Seventeen
+
+_The very highest is barely known by men.  
+Then comes that which they know and love,  
+Then that which is feared,  
+Then that which is despised._
+
+_He who does not trust enough will not be trusted._
+
+_When actions are performed  
+Without unnecessary speech,  
+People say, "We did it!"_
+
+---
+
+This translation leaves out something that a lot of other translations include. The context in the first verses is given to be rulers; i.e., the best rulers govern such that they are barely known, the worst such that they are feared and despised.
+
+This has become a common thread, of ruling or governing with a very light hand and not being noticed or thanked. We see here the people even thinking that they are the ones who have accomplished something, when in fact it was the ruler behind the scenes.
+
+More personally, the middle stanza rings true, about trusting others being necessary to gain their trust in return. Any sort of dependence works in a similar way. You must open yourself up in order to have the favor returned. 
