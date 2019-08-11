@@ -460,3 +460,27 @@ I like the first interpretation.
 ---
 
 #### Nineteen
+
+_Give up sainthood, renounce wisdom,  
+And it will be a hundred times better for everyone._
+
+_Give up kindness, renounce morality,  
+And men will rediscover filial piety and love._
+
+_Give up ingenuity, renounce profit,  
+And bandits and thieves will disappear._
+
+_These three are outward forms alone; they are not sufficient in themselves.  
+It is more important  
+To see the simplicity,  
+To realize one's true nature,  
+To cast off selfishness  
+And temper desire._
+
+---
+
+August 11
+
+Renounce wisdom - this is a hard one to swallow. Wisdom is what's allowing me to type this, to manipulate transistors in a data center somewhere very far from where I'm writing these words, with mind-boggling precision. Accumulated human wisdom is what's giving me the free time to sit down and write these words in the first place. It's because thousands of people throughout history specifically did *not* temper their desire to know more that I can do all of these things today. It feels entitled and ungrateful to renounce these efforts and their results.
+
+But then where do we stop? What was the purpose of accumulating all these bits of wisdom? So that humans can thrive as a species? Why is more (human) life better? Are we any closer to being enlightened as a species, have we become any more at peace with ourselves, because we can instantly send information anywhere in the world, because we can feed ourselves using less than an hour each day instead of most of our waking hours? 
