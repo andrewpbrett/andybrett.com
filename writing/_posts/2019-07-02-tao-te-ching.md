@@ -429,4 +429,34 @@ This translation leaves out something that a lot of other translations include. 
 
 This has become a common thread, of ruling or governing with a very light hand and not being noticed or thanked. We see here the people even thinking that they are the ones who have accomplished something, when in fact it was the ruler behind the scenes.
 
-More personally, the middle stanza rings true, about trusting others being necessary to gain their trust in return. Any sort of dependence works in a similar way. You must open yourself up in order to have the favor returned. 
+More personally, the middle stanza rings true, about trusting others being necessary to gain their trust in return. Any sort of dependence works in a similar way. You must open yourself up in order to have the favor returned.
+
+---
+
+#### Eighteen
+
+_When the great Tao is forgotten,  
+Kindness and morality arise.  
+When wisdom and intelligence are born,  
+The great pretense begins._
+
+_When there is no peace within the family,  
+Filial piety and devotion arise.  
+When the country is confused and in chaos,  
+Loyal ministers appear._
+
+---
+
+August 9
+
+It's as if each line could be interpreted positively or negatively. Surely the great Tao being forgotten would be a bad thing - but then why does kindness and morality result? No peace in the family? Why would a good thing like filial piety come of that?
+
+One theory, one that's been on my mind lately, is that whenever the societal pendulum swings dramatically in one direction, that's when the counter culture is the strongest. It's only when issues are brought to the forefront that the organic resistance organizes. We _needed_ the shock therapy to realize the true state of the world.
+
+Another interpretation is that in each line pair, the second line is only superficially good. They are temporary salves, treating the symptoms of the underlying problem.
+
+I like the first interpretation.
+
+---
+
+#### Nineteen
